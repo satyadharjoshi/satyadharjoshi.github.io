@@ -5,7 +5,7 @@ description: Research portfolio of Satyadhar Joshi highlighting nationally inter
 ---
 
 
-## Independent Researcher | AI, Data Science & Policy-Oriented Research
+## Independent Researcher | National Interest and Policy-Oriented Research Whitepapers and Commentary 
 
 ### 👨‍🔬 About
 
