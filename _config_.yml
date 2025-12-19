@@ -1,0 +1,119 @@
+# Site Configuration for Satyadhar Joshi - Independent Researcher
+
+title: "Satyadhar Joshi | Independent Researcher"
+description: "Quantitative Analytics | AI & Data Science Expert | Financial Risk Modeling | Machine Learning Researcher"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://satyadharjoshi.github.io" # the base hostname & protocol for your site
+
+# Theme
+theme: jekyll-theme-minimal
+
+# Author Information
+author:
+  name: "Satyadhar Joshi"
+  email: "satyadhar.joshi@gmail.com"
+  bio: "Independent Researcher specializing in quantitative analytics, financial risk modeling, data science, machine learning, and artificial intelligence."
+  location: "NY, NJ, Philadelphia, United States"
+  education: "International MBA - Bar Ilan University, Israel | Touro College, NYC"
+  
+# Research Focus
+research_interests:
+  - "Quantitative Analytics"
+  - "Financial Risk Modeling"
+  - "Data Science & Big Data Analytics"
+  - "Machine Learning & Artificial Intelligence"
+  - "AI Applications in Risk Assessment"
+  - "Statistical Modeling & Analysis"
+
+# Social Links
+github_username: satyadharjoshi
+linkedin_username: satyadharjoshi
+google_scholar: "Satya Joshi" # Customize with your actual profile ID
+
+# Professional Profiles
+profiles:
+  linkedin: "https://linkedin.com/in/satyadharjoshi"
+  google_scholar: "https://scholar.google.com"
+  youtube: "#" # Add your YouTube channel URL
+  orcid: "https://orcid.org" # Add your ORCID ID
+  ssrn: "https://ssrn.com" # Add your SSRN profile
+  philpapers: "https://philpapers.org"
+  scilit: "https://scilit.net"
+
+# Site Navigation
+navigation:
+  - title: "Awards"
+    url: "/awards/"
+  - title: "Media Kit"
+    url: "/media-kit/"
+  - title: "Research Profiles"
+    url: "/research-profiles/"
+  - title: "Publications"
+    url: "/publications/"
+  - title: "Reviewing"
+    url: "/reviewing/"
+  - title: "Free Courses"
+    url: "/free-courses/"
+  - title: "Free Ebooks"
+    url: "/free-ebooks/"
+  - title: "Gov Usage"
+    url: "/gov-usage/"
+
+# Repository Information
+repository: "satyadharjoshi/satyadharjoshi.github.io"
+repository_name: "Satyadhar Joshi Portfolio"
+repository_description: "Professional portfolio and research repository of Satyadhar Joshi, Independent Researcher"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# SEO Settings
+lang: en-US
+timezone: America/New_York
+logo: "/assets/logo.png" # Optional: Add your logo
+
+# Custom Variables
+research_status: "Active Researcher"
+collaboration_status: "Open to Research Collaborations"
+contact_email: "satyadhar.joshi@gmail.com"
+
+# Site Colors (for minimal theme customization)
+minimal:
+  skin: dark # Options: default, dark, sea, sky
+  accent_color: "#2e8b57" # Sea Green - professional/academic color
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      author: "Satyadhar Joshi"
+      show_sidebar: true
+      
+# Site Footer
+footer:
+  text: "Independent Research Portfolio | Views expressed are personal"
+  powered_by: "GitHub Pages & Jekyll"
+  copyright: "© 2025 Satyadhar Joshi. All rights reserved."
+  disclaimer: "All work conducted as an independent researcher. Does not represent any employer or affiliated institution."
+
+# Google Analytics (Optional - uncomment and add your ID)
+# google_analytics: UA-XXXXXXXX-X
+
+# Site Search (Optional)
+search: true
