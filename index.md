@@ -80,8 +80,7 @@ The work presented on this site supports priorities directly connected to the **
 - Advanced manufacturing and supply-chain stability  
 - Data-driven economic and technology policy analysis  
 
-These contributions are sustained, independently produced, and oriented toward **broad public benefit**, aligning with evaluation standards often applied in **national interest waiver and merit-based green card assessments**.
-
+These contributions are sustained, independently produced, and oriented toward broad public benefit, aligning with evaluation standards often applied in national interest waiver and merit-based green card assessments. The materials presented here may therefore be informationally useful to individuals reviewing or studying national-interest–waiver green card evaluation frameworks.
 --
 
 **Disclaimer**  
