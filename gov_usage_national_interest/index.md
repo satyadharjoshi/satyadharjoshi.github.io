@@ -67,18 +67,3 @@ Collectively, this website functions as a centralized evidence hub for National 
 
 > S. Joshi conducted this work in the capacity of an independent researcher. The views expressed are solely those of the author and do not represent those of his employer or any affiliated institution.
 
----
-
-## Site Navigation
-
-- Awards
-- Media-Kit
-- Research Profiles
-- Publications
-- Reviewing
-- Free Courses
-- Free Ebooks
-- Gov Usage
-
----
-
