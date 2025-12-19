@@ -35,7 +35,7 @@ I am an Independent Researcher specializing in **quantitative analytics, financi
 ### 📚 Latest Research & Resources
 - [Publications](/publications/) - Research papers and articles
 - [Free Courses](/free-courses/) - Educational resources
-- [Gov Usage](/gov-usage/) - Government recognition
+- [Gov Usage](/gov_usage_national_interest/) - Government recognition
 
 ---
 
