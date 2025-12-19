@@ -60,23 +60,3 @@
 
 > S. Joshi conducted this work in the capacity of an independent researcher. The views expressed are solely those of the author and do not represent those of his employer or any affiliated institution.
 
-**Alumnus**: International MBA, Bar Ilan University, Israel and Touro College, NYC  
-**Email**: satyadhar.joshi@gmail.com  
-**Location**: NY, NJ, Philadelphia, United States
-
----
-
-## Site Navigation
-
-- [Awards](/awards)
-- [Media-Kit](/media-kit)
-- [Research Profiles](/research-profiles)
-- [Publications](/publications)
-- [Reviewing](/reviewing)
-- [Free Courses](/free-courses)
-- [Free Ebooks](/free-ebooks)
-- [Gov Usage](/gov-usage)
-
----
-
-*Proudly powered by WordPress*
