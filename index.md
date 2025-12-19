@@ -72,7 +72,7 @@ These engagements demonstrate a sustained pathway from **independent research to
 
 ---
 
-### Public-Interest & National-Scale Contributions
+#### Public-Interest & National-Scale Contributions
 
 The work presented on this site supports priorities directly connected to the **national interest of the United States**, including:
 - Responsible deployment of Agentic and Generative AI  
@@ -80,8 +80,8 @@ The work presented on this site supports priorities directly connected to the **
 - Advanced manufacturing and supply-chain stability  
 - Data-driven economic and technology policy analysis  
 
-These contributions are sustained, independently produced, and oriented toward broad public benefit, aligning with evaluation standards often applied in national interest waiver and merit-based green card assessments. The materials presented here may therefore be informationally useful to individuals reviewing or studying national-interest–waiver green card evaluation frameworks.
---
+These contributions are sustained, independently produced, and oriented toward **broad public benefit**, aligning with evaluation standards often applied in **national interest waiver and merit-based green card assessments**. The materials presented here may therefore be **informationally useful** to individuals reviewing or studying national-interest–waiver green card evaluation frameworks.
+
 
 **Disclaimer**  
 All research is conducted in an independent capacity. The views expressed are solely those of the author and do not represent any employer or affiliated institution.
