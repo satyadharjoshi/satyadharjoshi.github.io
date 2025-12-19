@@ -4,41 +4,44 @@
 
 ### Citation and References by Government Agencies
 
-- **Paper Cited by Federal Reserve US Paper**: https://www.federalreserve.gov/econres/feds/files/2025053pap.pdf
-- **Paper referenced by BLS US Govt**: https://www.bls.gov/opub/mlr/content/doi/mlr.2022.21.txt
-- **Paper published at ERIC US Govt**: https://eric.ed.gov/?q=satyadhar+joshi
-- **Paper indexed in Science Gov**: https://www.google.com/search?q=satyadhar+joshi+site%3Ascience.gov
-- **Papers indexed in ScanR France**: https://scanr.enseignementsup-recherche.gouv.fr/search/publications?q=satyadhar+joshi
-- **Paper indexed in Aus Govt Vocedplus**: https://www.voced.edu.au/content/ngv:103048
-- **Paper indexed OUCI Ukraine Gov**: https://ouci.dntb.gov.ua/en/works/45rNeoZE/
-- **Papers indexed in Euro PMC**: https://europepmc.org/search?query=satyadhar%20joshi
-- **Paper indexed by EU epale**: https://epale.ec.europa.eu/en/resource-centre/content/bridging-ai-skills-gap
-- **Paper indexed by Harrisburg Univ US**: https://digitalcommons.harrisburgu.edu/do/search/?q=satyadhar%20joshi
-- **ISIDORE French Govt**: https://isidore.science/a/joshi_satyadhar
+*   **Paper Cited by Federal Reserve US Paper**: [https://www.federalreserve.gov/econres/feds/files/2025053pap.pdf](https://www.federalreserve.gov/econres/feds/files/2025053pap.pdf)
+*   **Paper referenced by BLS US Govt**: [https://www.bls.gov/opub/mlr/content/doi/mlr.2022.21.txt](https://www.bls.gov/opub/mlr/content/doi/mlr.2022.21.txt)
+*   **Paper published at ERIC US Govt**: [https://eric.ed.gov/?q=satyadhar+joshi](https://eric.ed.gov/?q=satyadhar+joshi)
+*   **Paper indexed in Science Gov**: [https://www.google.com/search?q=satyadhar+joshi+site%3Ascience.gov](https://www.google.com/search?q=satyadhar+joshi+site%3Ascience.gov)
+*   **Papers indexed in ScanR France**: [https://scanr.enseignementsup-recherche.gouv.fr/search/publications?q=satyadhar+joshi](https://scanr.enseignementsup-recherche.gouv.fr/search/publications?q=satyadhar+joshi)
+*   **Paper indexed in Aus Govt Vocedplus**: [https://www.voced.edu.au/content/ngv:103048](https://www.voced.edu.au/content/ngv:103048)
+*   **Paper indexed OUCI Ukraine Gov**: [https://ouci.dntb.gov.ua/en/works/45rNeoZE/](https://ouci.dntb.gov.ua/en/works/45rNeoZE/)
+*   **Papers indexed in Euro PMC**: [https://europepmc.org/search?query=satyadhar%20joshi](https://europepmc.org/search?query=satyadhar%20joshi)
+*   **Paper indexed by EU epale**: [https://epale.ec.europa.eu/en/resource-centre/content/bridging-ai-skills-gap](https://epale.ec.europa.eu/en/resource-centre/content/bridging-ai-skills-gap)
+*   **Paper indexed by Harrisburg Univ US**: [https://digitalcommons.harrisburgu.edu/do/search/?q=satyadhar%20joshi](https://digitalcommons.harrisburgu.edu/do/search/?q=satyadhar%20joshi)
+*   **ISIDORE French Govt**: [https://isidore.science/a/joshi_satyadhar](https://isidore.science/a/joshi_satyadhar)
 
 ### Other Gov indexing:
 
-- **Work Archived in OSF**: https://osf.io/z2ehr/overview
-- **Work showing up in Commerce Research Library**: https://search.library.doc.gov/discovery/search?vid=01USDOC_INST:01USDOC&tab=Everything&search_scope=MyInst_and_CI&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,satyadhar%20joshi&displayField=all&pcAvailabiltyMode=true&pcAvailability=true
-- **Work Showing up in Library of Abu Dhabi**: https://ar.library.dctabudhabi.ae/eds?query=Satyadhar%20Joshi
+*   **Work Archived in OSF**: [https://osf.io/z2ehr/overview](https://osf.io/z2ehr/overview)
+*   **Work showing up in Commerce Research Library**: [https://search.library.doc.gov/discovery/search?vid=01USDOC_INST:01USDOC&tab=Everything&search_scope=MyInst_and_CI&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,satyadhar%20joshi&displayField=all&pcAvailabiltyMode=true&pcAvailability=true](https://search.library.doc.gov/discovery/search?vid=01USDOC_INST:01USDOC&tab=Everything&search_scope=MyInst_and_CI&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,satyadhar%20joshi&displayField=all&pcAvailabiltyMode=true&pcAvailability=true)
+*   **Work Showing up in Library of Abu Dhabi**: [https://ar.library.dctabudhabi.ae/eds?query=Satyadhar%20Joshi](https://ar.library.dctabudhabi.ae/eds?query=Satyadhar%20Joshi)
 
 ### Comment published by OSTP Regulations.gov on Nov 6:
-https://downloads.regulations.gov/OSTP-TECH-2025-0067-0401/attachment_1.pdf
+[https://downloads.regulations.gov/OSTP-TECH-2025-0067-0401/attachment_1.pdf](https://downloads.regulations.gov/OSTP-TECH-2025-0067-0401/attachment_1.pdf)
 
 ### Comments published by ITA Regulations.gov on Dec 4:
-https://downloads.regulations.gov/ITA-2025-0070-0042/attachment_1.pdf
+[https://downloads.regulations.gov/ITA-2025-0070-0042/attachment_1.pdf](https://downloads.regulations.gov/ITA-2025-0070-0042/attachment_1.pdf)
 
 ### Comments published by FDA Regulations.gov Dec 8
-https://downloads.regulations.gov/FDA-2025-N-2338-0070/attachment_1.pdf
+[https://downloads.regulations.gov/FDA-2025-N-2338-0070/attachment_1.pdf](https://downloads.regulations.gov/FDA-2025-N-2338-0070/attachment_1.pdf)
 
 ### Pending Comments
 
-**Replace this comment pdf**: https://www.regulations.gov/document/OSTP_FRDOC_0001-0031
+**Replace this comment pdf**: [https://www.regulations.gov/document/OSTP_FRDOC_0001-0031](https://www.regulations.gov/document/OSTP_FRDOC_0001-0031)
 
-**Post Comments titled "Leveraging Agentic Generative AI to Advance U.S. Manufacturing Competitiveness: Strategies for Technology Integration, Workforce Development, and Resilient Supply Chains" due by Dec 15 2025 AI for Advanced manufacturing**: https://www.regulations.gov/document/NIST-2025-0004-0001
+**Post Comments titled "Leveraging Agentic Generative AI to Advance U.S. Manufacturing Competitiveness: Strategies for Technology Integration, Workforce Development, and Resilient Supply Chains" due by Dec 15 2025 AI for Advanced manufacturing**: [https://www.regulations.gov/document/NIST-2025-0004-0001](https://www.regulations.gov/document/NIST-2025-0004-0001)
 
-**EU Digital Decade Review (due 23 December 2025)**: https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15514-Review-of-the-Digital-Decade-policy-programme_en
+**EU Digital Decade Review (due 23 December 2025)**: [https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15514-Review-of-the-Digital-Decade-policy-programme_en](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15514-Review-of-the-Digital-Decade-policy-programme_en)
 
+---
+
+*(Your National Interest Statement and other content remains the same below this point)*
 ---
 
 ## Portfolio and National Interest Statement
