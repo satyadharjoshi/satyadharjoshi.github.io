@@ -4,7 +4,6 @@ title: Home
 description: Research portfolio of Satyadhar Joshi highlighting nationally interest contributions and public-interest policy research
 ---
 
-# **Satyadhar Joshi**
 
 ## Independent Researcher | AI, Data Science & Policy-Oriented Research
 
