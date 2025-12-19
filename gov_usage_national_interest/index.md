@@ -64,22 +64,6 @@ Collectively, this website functions as a centralized evidence hub for National 
 
 > S. Joshi conducted this work in the capacity of an independent researcher. The views expressed are solely those of the author and do not represent those of his employer or any affiliated institution.
 
-**Alumnus**: International MBA, Bar Ilan University, Israel and Touro College, NYC  
-**Email**: satyadhar.joshi@gmail.com  
-**Location**: NY, NJ, Philadelphia, United States
-
----
-
-## Professional Profiles
-
-- **LinkedIn**: [linkedin.com/in/satyadharjoshi](https://linkedin.com/in/satyadharjoshi)
-- **Google Scholar**: [scholar.google.com](https://scholar.google.com)
-- **YouTube**: [YouTube Channel](#)
-- **ORCID**: [orcid.org](#)
-- **SSRN**: [ssrn.com](#)
-- **PhilPapers**: [philpapers.org](#)
-- **Scilit**: [scilit.net](#)
-
 ---
 
 ## Site Navigation
@@ -95,4 +79,3 @@ Collectively, this website functions as a centralized evidence hub for National 
 
 ---
 
-*Proudly powered by WordPress*
