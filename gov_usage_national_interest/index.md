@@ -41,10 +41,7 @@
 
 ---
 
-*(Your National Interest Statement and other content remains the same below this point)*
----
-
-## Portfolio and National Interest Statement
+## Portfolio and National Interest Guidance
 
 This website serves as a comprehensive, curated portfolio documenting the author's sustained scholarly, research, and policy contributions aligned with U.S. national interest priorities, including those commonly evaluated under the EB-2 National Interest Waiver (NIW) green card framework. The foundational premise underlying this body of work is that rigorous research, innovation, and applied scholarly analysis are critical drivers of economic competitiveness, workforce development, national security, technological leadership, and long-term U.S. technological sovereignty.
 
@@ -56,9 +53,12 @@ The national interest relevance of this body of work is further demonstrated thr
 
 Beyond citation, the research actively contributes to U.S. public policy and federal rulemaking through documented, evidence-based public comments submitted via Regulations.gov to agencies such as the Office of Science and Technology Policy (OSTP), International Trade Administration (ITA), and the Food and Drug Administration (FDA), establishing a clear and traceable pathway from independent research to regulatory, economic, and strategic policy input.
 
-This sustained record of government-acknowledged policy engagement, public scholarship, and national-level impact aligns with criteria frequently assessed in EB-2 NIW petitions, including independent contributions of national importance, broad societal benefit, and value beyond a single employer. In parallel, this site reflects a strictly non-commercial, volunteer commitment to knowledge sharing and mentorship, where educational materials, research examples, and EB-2 NIW preparation insights are shared freely and for informational purposes only, without charge, legal representation, or consulting services.
+This comprehensive portfolio provides compelling evidence of significant contributions to U.S. national interest, establishing a model that other EB-2 National Interest Waiver (NIW) green card applicants can study and emulate. The sustained track record documented here—featuring direct policy engagement with federal agencies, citation by key U.S. institutions, and demonstrable impact on American economic and security priorities—directly addresses the adjudicative criteria for a successful National Interest Waiver Green Card petition. It showcases how independent research, when strategically aligned with national imperatives, can meet the standard for independent contributions of substantial merit and national importance.
 
-Collectively, this website functions as a centralized evidence hub for National Interest Waiver green card evaluation, tracing a coherent narrative from independent research and scholarly dissemination to validated government recognition and policy impact, and documenting a sustained history of advancing the national interest of the United States through research, policy engagement, and open public knowledge.
+This repository is offered as a non-commercial, publicly available resource and case study for other researchers and professionals pursuing a green card through national interest waiver. The materials illustrate practical strategies for building a persuasive portfolio, including methods for securing government recognition, framing policy impact, and documenting a narrative of national importance. This free, informational resource is intended to support peer learning and the broader community of EB-2 NIW candidates by providing a transparent, real-world example of how to substantiate a waiver request. It is shared strictly for educational purposes without any charge, legal advice, or service offering.
+
+In essence, this collection functions as a detailed blueprint and centralized evidence hub for National Interest Waiver Green Card evaluation. It maps a clear pathway from academic contribution to validated U.S. national interest impact, offering a documented history that underscores how dedicated professionals can advance American competitiveness and security. For fellow applicants, it stands as a testament to the power of building a robust, evidence-based case that demonstrates a sustained commitment to the national interest of the United States.
+
 
 ---
 
