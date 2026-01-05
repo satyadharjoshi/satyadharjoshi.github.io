@@ -99,6 +99,27 @@
 - [HAL Preprint – hal_05101589v1](https://search.library.doc.gov/permalink/01USDOC_INST/1aqbjt/cdi_hal_primary_oai_HAL_hal_05101589v1)
 
 
+## OpenAIRE Publications
+
+- **Comprehensive review of Artificial General Intelligence (AGI): Applications in Business and Finance** (2025). *International Journal of Advances in Engineering and Management*. DOI: [10.35629/5252-0705250261](https://explore.openaire.eu/search/publication?pid=10.35629%2F5252-0705250261) — Satyadhar Joshi :contentReference[oaicite:1]{index=1}
+
+- **Architectures and Challenges of AI Multi-Agent Frameworks for Financial Services** (2025). *Current Journal of Applied Science and Technology*, 44: 52–72. DOI: [10.9734/cjast/2025/v44i64558](https://explore.openaire.eu/search/publication?pid=10.9734%2Fcjast%2F2025%2Fv44i64558) — Satyadhar Joshi :contentReference[oaicite:2]{index=2}
+
+- [10.38124/ijisrt/25may964](https://explore.openaire.eu/search/publication?pid=10.38124%2Fijisrt%2F25may964)
+
+- [10.20944/preprints202504.1660.v1](https://explore.openaire.eu/search/publication?pid=10.20944%2Fpreprints202504.1660.v1)
+
+- [10.30574/ijsra.2025.14.2.0439](https://explore.openaire.eu/search/publication?pid=10.30574%2Fijsra.2025.14.2.0439)
+
+- [10.30574/wjaets.2025.14.2.0071](https://explore.openaire.eu/search/publication?pid=10.30574%2Fwjaets.2025.14.2.0071)
+
+- [10.48175/ijarsct-23272](https://explore.openaire.eu/search/publication?pid=10.48175%2Fijarsct-23272)
+
+- [10.5281/zenodo.14853901](https://explore.openaire.eu/search/publication?pid=10.5281%2Fzenodo.14853901)
+
+- [10.36948/ijfmr.2025.v07i01.35488](https://explore.openaire.eu/search/publication?pid=10.36948%2Fijfmr.2025.v07i01.35488)
+
+
 ## Upcoming Website
 
 *   [https://sites.google.com/view/satyadharjoshi/](https://sites.google.com/view/satyadharjoshi/)
