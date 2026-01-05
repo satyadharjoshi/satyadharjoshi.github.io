@@ -101,9 +101,9 @@
 
 ## OpenAIRE Publications
 
-- **Comprehensive review of Artificial General Intelligence (AGI): Applications in Business and Finance** (2025). *International Journal of Advances in Engineering and Management*. DOI: [10.35629/5252-0705250261](https://explore.openaire.eu/search/publication?pid=10.35629%2F5252-0705250261) — Satyadhar Joshi :contentReference[oaicite:1]{index=1}
+- **Comprehensive review of Artificial General Intelligence (AGI): Applications in Business and Finance** (2025). *International Journal of Advances in Engineering and Management*. DOI: [10.35629/5252-0705250261](https://explore.openaire.eu/search/publication?pid=10.35629%2F5252-0705250261) — Satyadhar Joshi 
 
-- **Architectures and Challenges of AI Multi-Agent Frameworks for Financial Services** (2025). *Current Journal of Applied Science and Technology*, 44: 52–72. DOI: [10.9734/cjast/2025/v44i64558](https://explore.openaire.eu/search/publication?pid=10.9734%2Fcjast%2F2025%2Fv44i64558) — Satyadhar Joshi :contentReference[oaicite:2]{index=2}
+- **Architectures and Challenges of AI Multi-Agent Frameworks for Financial Services** (2025). *Current Journal of Applied Science and Technology*, 44: 52–72. DOI: [10.9734/cjast/2025/v44i64558](https://explore.openaire.eu/search/publication?pid=10.9734%2Fcjast%2F2025%2Fv44i64558) — Satyadhar Joshi 
 
 - [10.38124/ijisrt/25may964](https://explore.openaire.eu/search/publication?pid=10.38124%2Fijisrt%2F25may964)
 
