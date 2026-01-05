@@ -74,9 +74,9 @@
 *   [Regulatory Reform for Agentic AI: Addressing Governance Challenges in Federal AI Adoption](https://satyadharjoshi.com/wp-content/uploads/2025/12/Regulatory_Reform_for_Agentic_AI_Addressing_Governance_Challenges_in_Federal_AI_Adoption.pdf)
 *   [A Comprehensive Framework for US AI Export Leadership: Analysis, Implementation & Strategic Recommendations](https://satyadharjoshi.com/wp-content/uploads/2025/12/A_Comprehensive_Framework_for_US_AI_Export_Leadership_Analysis_Implementation_Strategic_Recommendations.pdf)
 *   [Regulatory Frameworks for Generative AI Enabled Digital Mental Health Devices](https://satyadharjoshi.com/wp-content/uploads/2025/12/Regulatory_Frameworks_for_Generative_AI_Enabled_Digital_Mental_Health_Devices_Satyadhar_Joshi.pdf)
-*   
+    
 
-Papers with perma link at search.library.doc.gov
+##Papers with perma link at search.library.doc.gov
 
 - [JESBS 2025 Article (Crossref)](https://search.library.doc.gov/permalink/01USDOC_INST/1aqbjt/cdi_crossref_primary_10_9734_jesbs_2025_v38i61436)
 
