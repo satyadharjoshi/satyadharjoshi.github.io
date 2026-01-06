@@ -31,6 +31,9 @@
 ### Comments published by FDA Regulations.gov Dec 8
 [https://downloads.regulations.gov/FDA-2025-N-2338-0070/attachment_1.pdf](https://downloads.regulations.gov/FDA-2025-N-2338-0070/attachment_1.pdf)
 
+##Comments published by CDC Regulations.gov 
+[https://downloads.regulations.gov/CDC-2025-0753-0005/attachment_1.pdf][https://downloads.regulations.gov/CDC-2025-0753-0005/attachment_1.pdf]
+
 ### Pending Comments
 
 **Replace this comment pdf**: [https://www.regulations.gov/document/OSTP_FRDOC_0001-0031](https://www.regulations.gov/document/OSTP_FRDOC_0001-0031)
