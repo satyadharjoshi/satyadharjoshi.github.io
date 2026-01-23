@@ -50,8 +50,6 @@
 
 **Post Comments titled "Leveraging Agentic Generative AI to Advance U.S. Manufacturing Competitiveness: Strategies for Technology Integration, Workforce Development, and Resilient Supply Chains" due by Dec 15 2025 AI for Advanced manufacturing**: [https://www.regulations.gov/document/NIST-2025-0004-0001](https://www.regulations.gov/document/NIST-2025-0004-0001)
 
-**EU Digital Decade Review (due 23 December 2025)**: [https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15514-Review-of-the-Digital-Decade-policy-programme_en](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15514-Review-of-the-Digital-Decade-policy-programme_en)
-
 ---
 
 ## Portfolio and National Interest Guidance
