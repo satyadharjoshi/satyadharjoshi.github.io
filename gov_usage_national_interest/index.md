@@ -34,6 +34,16 @@
 ### Comments published by CDC Regulations.gov Jan 5
 [https://downloads.regulations.gov/CDC-2025-0753-0005/attachment_1.pdf](https://downloads.regulations.gov/CDC-2025-0753-0005/attachment_1.pdf)
 
+
+### Comments published by FSIS Regulations.gov Jan 21
+[https://downloads.regulations.gov/FSIS-2025-0145-0007/attachment_1.pdf](https://downloads.regulations.gov/FSIS-2025-0145-0007/attachment_1.pdf)
+
+
+### Comments published by CDC Regulations.gov Jan 21
+[https://downloads.regulations.gov/CDC-2025-0750-0404/attachment_1.pdf](https://downloads.regulations.gov/CDC-2025-0750-0404/attachment_1.pdf)
+
+
+
 ### Pending Comments
 
 **Replace this comment pdf**: [https://www.regulations.gov/document/OSTP_FRDOC_0001-0031](https://www.regulations.gov/document/OSTP_FRDOC_0001-0031)
