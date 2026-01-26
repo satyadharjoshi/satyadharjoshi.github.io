@@ -125,6 +125,8 @@
 *   [https://sites.google.com/view/satyadharjoshi/](https://sites.google.com/view/satyadharjoshi/)
 
 ---
+Uploaded on Github.io
+[https://satyadharjoshi.github.io/publications/Regulatory_Reform_for_Agentic_AI_Addressing_Governance_Challenges_in_Federal_AI_Adoption.pdf](https://satyadharjoshi.github.io/publications/Regulatory_Reform_for_Agentic_AI_Addressing_Governance_Challenges_in_Federal_AI_Adoption.pdf)
 
 **Satyadhar Joshi**  
 *Independent Researcher*
