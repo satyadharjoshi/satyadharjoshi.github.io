@@ -128,6 +128,8 @@
 Uploaded on Github.io
 [https://satyadharjoshi.github.io/publications/Regulatory_Reform_for_Agentic_AI_Addressing_Governance_Challenges_in_Federal_AI_Adoption.pdf](https://satyadharjoshi.github.io/publications/Regulatory_Reform_for_Agentic_AI_Addressing_Governance_Challenges_in_Federal_AI_Adoption.pdf)
 
+[transformative_integration_agentic_generative_ai_food_safety_policy_framework_implementation_guidelines_economic_impact.pdf](transformative_integration_agentic_generative_ai_food_safety_policy_framework_implementation_guidelines_economic_impact.pdf)
+
 **Satyadhar Joshi**  
 *Independent Researcher*
 
