@@ -22,6 +22,9 @@
 *   **Work showing up in Commerce Research Library**: [https://search.library.doc.gov/discovery/search?vid=01USDOC_INST:01USDOC&tab=Everything&search_scope=MyInst_and_CI&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,satyadhar%20joshi&displayField=all&pcAvailabiltyMode=true&pcAvailability=true](https://search.library.doc.gov/discovery/search?vid=01USDOC_INST:01USDOC&tab=Everything&search_scope=MyInst_and_CI&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,satyadhar%20joshi&displayField=all&pcAvailabiltyMode=true&pcAvailability=true)
 *   **Work Showing up in Library of Abu Dhabi**: [https://ar.library.dctabudhabi.ae/eds?query=Satyadhar%20Joshi](https://ar.library.dctabudhabi.ae/eds?query=Satyadhar%20Joshi)
 
+### PRA ICR
+[https://www.reginfo.gov/public/do/DownloadDocument?objectID=165550000](https://www.reginfo.gov/public/do/DownloadDocument?objectID=165550000)
+
 ### Comment published by OSTP Regulations.gov on Nov 6:
 [https://downloads.regulations.gov/OSTP-TECH-2025-0067-0401/attachment_1.pdf](https://downloads.regulations.gov/OSTP-TECH-2025-0067-0401/attachment_1.pdf)
 
