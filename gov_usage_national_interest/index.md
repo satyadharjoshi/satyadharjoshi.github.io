@@ -42,6 +42,8 @@
 ### Comments published by CDC Regulations.gov Jan 21
 [https://downloads.regulations.gov/CDC-2025-0750-0404/attachment_1.pdf](https://downloads.regulations.gov/CDC-2025-0750-0404/attachment_1.pdf)
 
+## Feb 6
+[https://downloads.regulations.gov/NRC-2025-0089-0003/attachment_1.pdf](https://downloads.regulations.gov/NRC-2025-0089-0003/attachment_1.pdf)
 
 
 ### Pending Comments
