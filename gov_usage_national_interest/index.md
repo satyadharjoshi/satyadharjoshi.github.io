@@ -31,29 +31,32 @@
 ### Comments published by ITA Regulations.gov on Dec 4:
 [https://downloads.regulations.gov/ITA-2025-0070-0042/attachment_1.pdf](https://downloads.regulations.gov/ITA-2025-0070-0042/attachment_1.pdf)
 
-### Comments published by FDA Regulations.gov Dec 8
+### Comments published by FDA Regulations.gov Dec 8:
 [https://downloads.regulations.gov/FDA-2025-N-2338-0070/attachment_1.pdf](https://downloads.regulations.gov/FDA-2025-N-2338-0070/attachment_1.pdf)
 
-### Comments published by CDC Regulations.gov Jan 5
+### Comments published by CDC Regulations.gov Jan 5:
 [https://downloads.regulations.gov/CDC-2025-0753-0005/attachment_1.pdf](https://downloads.regulations.gov/CDC-2025-0753-0005/attachment_1.pdf)
 
+### Comments published by FSIS Regulations.gov Jan 21:
+[https://downloads.regulations.gov/FSIS-2025-0145-0007/attachment_1.pdf](https://downloads.regulations.gov/FSIS-2025-0145-0007/attachment_1.pdf) | [Comment Link](https://www.regulations.gov/comment/FSIS-2025-0145-0007)
 
-### Comments published by FSIS Regulations.gov Jan 21
-[https://downloads.regulations.gov/FSIS-2025-0145-0007/attachment_1.pdf](https://downloads.regulations.gov/FSIS-2025-0145-0007/attachment_1.pdf)
-
-
-### Comments published by CDC Regulations.gov Jan 21
+### Comments published by CDC Regulations.gov Jan 21:
 [https://downloads.regulations.gov/CDC-2025-0750-0404/attachment_1.pdf](https://downloads.regulations.gov/CDC-2025-0750-0404/attachment_1.pdf)
 
-## Comments published by NRC Regulations.gov Feb 6
+### Comments published by CDC Regulations.gov (CDC-2025-0651):
+[https://downloads.regulations.gov/CDC-2025-0651-0005/attachment_1.pdf](https://downloads.regulations.gov/CDC-2025-0651-0005/attachment_1.pdf) | [Comment Link](https://www.regulations.gov/comment/CDC-2025-0651-0005)
+
+### Comments published by NRC Regulations.gov Feb 6:
 [https://downloads.regulations.gov/NRC-2025-0089-0003/attachment_1.pdf](https://downloads.regulations.gov/NRC-2025-0089-0003/attachment_1.pdf)
 
+### Comments published by VA Regulations.gov:
+[https://downloads.regulations.gov/VA-2025-VACO-0001-0152/attachment_1.pdf](https://downloads.regulations.gov/VA-2025-VACO-0001-0152/attachment_1.pdf) | [Comment Link](https://www.regulations.gov/comment/VA-2025-VACO-0001-0152)
 
-### Pending Comments
+### Comments published by Education Dept. Regulations.gov:
+[https://downloads.regulations.gov/ED-2025-SCC-1141-0004/attachment_1.pdf](https://downloads.regulations.gov/ED-2025-SCC-1141-0004/attachment_1.pdf) | [Comment Link](https://www.regulations.gov/comment/ED-2025-SCC-1141-0004)
 
-**Replace this comment pdf**: [https://www.regulations.gov/document/OSTP_FRDOC_0001-0031](https://www.regulations.gov/document/OSTP_FRDOC_0001-0031)
-
-**Post Comments titled "Leveraging Agentic Generative AI to Advance U.S. Manufacturing Competitiveness: Strategies for Technology Integration, Workforce Development, and Resilient Supply Chains" due by Dec 15 2025 AI for Advanced manufacturing**: [https://www.regulations.gov/document/NIST-2025-0004-0001](https://www.regulations.gov/document/NIST-2025-0004-0001)
+### Comments published by OCC Regulations.gov:
+[https://downloads.regulations.gov/OCC-2025-0669-0005/attachment_1.pdf](https://downloads.regulations.gov/OCC-2025-0669-0005/attachment_1.pdf) | [Comment Link](https://www.regulations.gov/comment/OCC-2025-0669-0005)
 
 ---
 

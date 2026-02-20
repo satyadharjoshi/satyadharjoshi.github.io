@@ -58,7 +58,7 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [Publications](/publications/) — Peer-reviewed and working papers  
 - [Free Courses](/free-courses/) — Open educational materials, Free Courses and Videos
 - [Government Usage](/gov_usage_national_interest/) — Citations, indexing, and policy engagement  
-
+- [Libraries](/Libraries/) — Libraries and List of Papers indexed in Indexing services 
 ---
 
 ## Researcher Profile Summary
