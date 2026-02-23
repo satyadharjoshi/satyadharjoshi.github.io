@@ -75,22 +75,3 @@ Below are links to key research papers hosted on Impactio:
 
 
 
-
-
-##  Notes
-
--  **Link #2 appears twice** in your list; it’s included here once.
-- You can add titles or descriptions for each paper if you want a richer page.
-- This list is suitable for a simple static site (e.g., GitHub Pages, Obsidian vault, Notion with markdown import).
-
----
-
-##  Example With Titles (Optional)
-
-If you later want to **include paper titles or authors**, you can expand each link like this:
-
-```markdown
-###  *Title of Paper*
-**Authors:** …  
-**Link:** [Download PDF](https://...)
->>>>>>> ec9af65f6090979b41eea3b5552e59e87d654dad

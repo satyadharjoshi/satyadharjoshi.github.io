@@ -1,44 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-<!-- Root Page -->
-<url>
-<loc>https://satyadharjoshi.github.io/</loc>
-</url>
-
-<!-- free-courses -->
-<url>
-<loc>https://satyadharjoshi.github.io/free-courses/</loc>
-</url>
-
-<!-- gov_usage_national_interest -->
-<url>
-<loc>https://satyadharjoshi.github.io/gov_usage_national_interest/</loc>
-</url>
-<url>
-<loc>https://satyadharjoshi.github.io/gov_usage_national_interest/library_gov.md</loc>
-</url>
-
-<!-- publications (HTML index) -->
-<url>
-<loc>https://satyadharjoshi.github.io/publications/</loc>
-</url>
-
-<!-- publications (PDF files) -->
-<url>
-<loc>https://satyadharjoshi.github.io/publications/advancing_us_public_health_surveillance_generative_ai_hiv.pdf</loc>
-</url>
-
-<url>
-<loc>https://satyadharjoshi.github.io/publications/Regulatory_Frameworks_for_Generative_AI_Enabled_Digital_Mental_Health_Devices.pdf</loc>
-</url>
-
-<url>
-<loc>https://satyadharjoshi.github.io/publications/Regulatory_Reform_for_Agentic_AI_Addressing_Governance_Challenges_in_Federal_AI_Adoption.pdf</loc>
-</url>
-
-<url>
-<loc>https://satyadharjoshi.github.io/publications/transformative_integration_agentic_generative_ai_food_safety_policy_framework_implementation_guidelines_economic_impact.pdf</loc>
-</url>
-
+	
+	<!-- Root Page -->
+	<url>
+		<loc>https://satyadharjoshi.github.io/</loc>
+	</url>
+	
+	<!-- commerce -->
+	<url>
+		<loc>https://satyadharjoshi.github.io/commerce/</loc>
+	</url>
+	
+	<!-- free-courses -->
+	<url>
+		<loc>https://satyadharjoshi.github.io/free-courses/</loc>
+	</url>
+	
+	<!-- gov_usage_national_interest -->
+	<url>
+		<loc>https://satyadharjoshi.github.io/gov_usage_national_interest/</loc>
+	</url>
+	<url>
+		<loc>https://satyadharjoshi.github.io/gov_usage_national_interest/library_gov/</loc>
+	</url>
+	
+	<!-- indexcopernicus -->
+	<url>
+		<loc>https://satyadharjoshi.github.io/indexcopernicus/</loc>
+	</url>
+	
+	<!-- libraries -->
+	<url>
+		<loc>https://satyadharjoshi.github.io/libraries/</loc>
+	</url>
+	
+	<!-- publications (HTML index) -->
+	<url>
+		<loc>https://satyadharjoshi.github.io/publications/</loc>
+	</url>
+	
+	<!-- research_profiles -->
+	<url>
+		<loc>https://satyadharjoshi.github.io/research_profiles/</loc>
+	</url>
+	
+	<!-- sciprofiles-europub -->
+	<url>
+		<loc>https://satyadharjoshi.github.io/sciprofiles-europub/</loc>
+	</url>
+	
+	<!-- vixra -->
+	<url>
+		<loc>https://satyadharjoshi.github.io/vixra/</loc>
+	</url>
+	
+	<!-- zenodo -->
+	<url>
+		<loc>https://satyadharjoshi.github.io/zenodo/</loc>
+	</url>
+	
+	<!-- ==================== PUBLICATIONS PDF FILES ==================== -->
+	
+	<!-- Agentic AI & Governance PDFs -->
+	<url>
+		<loc>https://satyadharjoshi.github.io/publications/Regulatory_Reform_for_Agentic_AI_Addressing_Governance_Challenges_in_Federal_AI_Adoption.pdf</loc>
+	</url>
+	
+	<url>
+		<loc>https://satyadharjoshi.github.io/publications/Regulatory_Frameworks_for_Generative_AI_Enabled_Digital_Mental_Health_Devices.pdf</loc>
+	</url>
+	
+	<url>
+		<loc>https://satyadharjoshi.github.io/publications/Agentic_AI_US_Workforce_Education_Economic_Competitiveness_Satyadhar_Joshi_commerce_gov.pdf</loc>
+	</url>
+	
+	<url>
+		<loc>https://satyadharjoshi.github.io/publications/joshi_agentic_gen_ai_us_competitiveness_interoperability_framework_2026.pdf</loc>
+	</url>
+	
+	<url>
+		<loc>https://satyadharjoshi.github.io/publications/joshi_integrating_nist_agentic_genai_rmf_financial_risk_management_2026.pdf</loc>
+	</url>
+	
+	<url>
+		<loc>https://satyadharjoshi.github.io/publications/joshi_vector_databases_generative_ai_intro_2026.pdf</loc>
+	</url>
+	
+	<!-- Public Health & Food Safety PDFs -->
+	<url>
+		<loc>https://satyadharjoshi.github.io/publications/advancing_us_public_health_surveillance_generative_ai_hiv.pdf</loc>
+	</url>
+	
+	<url>
+		<loc>https://satyadharjoshi.github.io/publications/transformative_integration_agentic_generative_ai_food_safety_policy_framework_implementation_guidelines_economic_impact.pdf</loc>
+	</url>
+	
 </urlset>

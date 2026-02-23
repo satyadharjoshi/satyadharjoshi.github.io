@@ -55,13 +55,18 @@ These engagements demonstrate a sustained pathway from **independent research to
 ---
 
 ### 📚 Research & Public Resources
-<<<<<<< HEAD
 
 #### Main Sections
 - [📄 Publications](/publications/) — Peer-reviewed and working papers  
 - [🎓 Free Courses](/free-courses/) — Open educational materials, Free Courses and Videos
 - [🏛️ Government Usage & National Interest](/gov_usage_national_interest/) — Citations, indexing, and policy engagement
-- [📚 Academic Libraries & Research Profiles](/libraries/) — Comprehensive list of research profiles, repositories, and publication links
+- [📚 Libraries & Indexing Services](/libraries/) — Libraries and list of papers indexed in indexing services
+- [🔬 Research Profiles](/research_profiles/) — Academic profiles and researcher identifiers
+- [🏢 Commerce Research Library](/commerce/) — Publications indexed in U.S. Department of Commerce Library
+- [📊 Index Copernicus](/indexcopernicus/) — Publications indexed in Index Copernicus International
+- [🔖 Zenodo Publications](/zenodo/) — Open access research archived on Zenodo
+- [📘 SciProfiles & EuroPub](/sciprofiles-europub/) — Publications on SciProfiles and EuroPub databases
+- [📄 viXra Archive](/vixra/) — Research publications on viXra.org e-print archive
 
 #### Direct Links to Key Pages
 - [Government Citations & Indexing](/gov_usage_national_interest/)
@@ -69,6 +74,12 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [Government Library Resources](/gov_usage_national_interest/library_gov/)
 - [Publications List](/publications/)
 - [Free Educational Resources](/free-courses/)
+- [Commerce Research Library](/commerce/)
+- [Index Copernicus Publications](/indexcopernicus/)
+- [Zenodo Research Archive](/zenodo/)
+- [Research Profiles](/research_profiles/)
+- [SciProfiles & EuroPub](/sciprofiles-europub/)
+- [viXra Archive](/vixra/)
 
 ---
 
@@ -77,6 +88,10 @@ These engagements demonstrate a sustained pathway from **independent research to
 #### Agentic AI & Governance
 - [Regulatory Reform for Agentic AI: Addressing Governance Challenges in Federal AI Adoption](/publications/Regulatory_Reform_for_Agentic_AI_Addressing_Governance_Challenges_in_Federal_AI_Adoption.pdf)
 - [Regulatory Frameworks for Generative AI Enabled Digital Mental Health Devices](/publications/Regulatory_Frameworks_for_Generative_AI_Enabled_Digital_Mental_Health_Devices.pdf)
+- [Agentic AI, US Workforce, Education & Economic Competitiveness](/publications/Agentic_AI_US_Workforce_Education_Economic_Competitiveness_Satyadhar_Joshi_commerce_gov.pdf)
+- [Joshi Agentic Gen AI US Competitiveness Interoperability Framework 2026](/publications/joshi_agentic_gen_ai_us_competitiveness_interoperability_framework_2026.pdf)
+- [Integrating NIST Agentic GenAI RMF for Financial Risk Management](/publications/joshi_integrating_nist_agentic_genai_rmf_financial_risk_management_2026.pdf)
+- [Vector Databases for Generative AI: An Introduction](/publications/joshi_vector_databases_generative_ai_intro_2026.pdf)
 
 #### Public Health & Food Safety
 - [Advancing US Public Health Surveillance with Generative AI: HIV Research Applications](/publications/advancing_us_public_health_surveillance_generative_ai_hiv.pdf)
@@ -95,6 +110,7 @@ These engagements demonstrate a sustained pathway from **independent research to
 - **ViXra Author Page**: [https://vixra.org/author/satyadhar_joshi](https://vixra.org/author/satyadhar_joshi)
 - **OSF Repository**: [https://osf.io/z2ehr/overview](https://osf.io/z2ehr/overview)
 - **GitHub.io Page**: [https://satyadharjoshi.github.io/](https://satyadharjoshi.github.io/)
+- **SciProfiles**: [https://sciprofiles.com/profile/1798816](https://sciprofiles.com/profile/1798816)
 
 #### Impactio Laboratory
 - **GenAI and Agentic AI Research Laboratory**: [https://www.impactio.com/laboratory/GenAIandAgenticAIResearchforUSCompetitiveness](https://www.impactio.com/laboratory/GenAIandAgenticAIResearchforUSCompetitiveness?tab=publications)
@@ -132,12 +148,6 @@ These engagements demonstrate a sustained pathway from **independent research to
 - **VA-2026**: [PDF](https://downloads.regulations.gov/VA-2026-VBA-0067-11264/attachment_1.pdf) | [Comment](https://www.regulations.gov/comment/VA-2026-VBA-0067-11264)
 - **HHS-ONC**: [PDF](https://downloads.regulations.gov/HHS-ONC-2026-0001-0071/attachment_1.pdf) | [Comment](https://www.regulations.gov/comment/HHS-ONC-2026-0001-0071)
 
-=======
-- [Publications](/publications/) — Peer-reviewed and working papers  
-- [Free Courses](/free-courses/) — Open educational materials, Free Courses and Videos
-- [Government Usage](/gov_usage_national_interest/) — Citations, indexing, and policy engagement  
-- [libraries](/libraries/) — Libraries and List of Papers indexed in Indexing services 
-- [research_profiles](/research_profiles/) — Libraries and List of Papers indexed in Indexing services 
 ---
 
 ## Researcher Profile Summary
@@ -147,6 +157,11 @@ These engagements demonstrate a sustained pathway from **independent research to
 - **U.S. Bureau of Labor Statistics (BLS)** — Referenced in labor market research
 - **Regulations.gov** — Policy submissions to OSTP, ITA, FDA, CDC, and other agencies
 - **International Public Indexing** — EU, France, Australia, Ukraine government portals
+- **U.S. Department of Commerce** — Publications indexed in Commerce Research Library
+- **Index Copernicus International** — Global scientific database indexing
+- **Zenodo (CERN)** — Open access research archive
+- **SciProfiles & EuroPub** — Academic platform and database indexing
+- **viXra.org** — Open e-print archive
 
 ---
 
@@ -166,6 +181,12 @@ These contributions are sustained, independently produced, and oriented toward *
 - [All Publications](/publications/)
 - [All Libraries & Profiles](/libraries/)
 - [Government Usage](/gov_usage_national_interest/)
+- [Commerce Research Library](/commerce/)
+- [Index Copernicus](/indexcopernicus/)
+- [Zenodo Archive](/zenodo/)
+- [Research Profiles](/research_profiles/)
+- [SciProfiles & EuroPub](/sciprofiles-europub/)
+- [viXra Archive](/vixra/)
 - [Free Educational Resources](/free-courses/)
 - [GitHub Repository](https://github.com/satyadharjoshi/satyadharjoshi.github.io)
 
