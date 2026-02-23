@@ -26,23 +26,46 @@
 [https://downloads.regulations.gov/OSTP-TECH-2025-0067-0401/attachment_1.pdf](https://downloads.regulations.gov/OSTP-TECH-2025-0067-0401/attachment_1.pdf)
 
 ### Comments published by ITA Regulations.gov on Dec 4:
-[https://downloads.regulations.gov/ITA-2025-0070-0042/attachment_1.pdf](https://downloads.regulations.gov/ITA-2025-0070-0042/attachment_1.pdf)
+[https://downloads.regulations.gov/ITA-2025-0070-0042/attachment_1.pdf](https://downloads.regulations.gov/ITA-2025-0070-0042/attachment_1.pdf)  
+[https://www.regulations.gov/comment/ITA-2025-0070-0042](https://www.regulations.gov/comment/ITA-2025-0070-0042)
 
-### Comments published by FDA Regulations.gov Dec 8
-[https://downloads.regulations.gov/FDA-2025-N-2338-0070/attachment_1.pdf](https://downloads.regulations.gov/FDA-2025-N-2338-0070/attachment_1.pdf)
+### Comments published by FDA Regulations.gov Dec 8:
+[https://downloads.regulations.gov/FDA-2025-N-2338-0070/attachment_1.pdf](https://downloads.regulations.gov/FDA-2025-N-2338-0070/attachment_1.pdf)  
+[https://www.regulations.gov/comment/FDA-2025-N-2338-0070](https://www.regulations.gov/comment/FDA-2025-N-2338-0070)
 
-### Comments published by CDC Regulations.gov Jan 5
-[https://downloads.regulations.gov/CDC-2025-0753-0005/attachment_1.pdf](https://downloads.regulations.gov/CDC-2025-0753-0005/attachment_1.pdf)
+### Comments published by CDC Regulations.gov Jan 5:
+[https://downloads.regulations.gov/CDC-2025-0753-0005/attachment_1.pdf](https://downloads.regulations.gov/CDC-2025-0753-0005/attachment_1.pdf)  
+[https://www.regulations.gov/comment/CDC-2025-0753-0005](https://www.regulations.gov/comment/CDC-2025-0753-0005)
 
+### Comments published by FSIS Regulations.gov Jan 21:
+[https://downloads.regulations.gov/FSIS-2025-0145-0007/attachment_1.pdf](https://downloads.regulations.gov/FSIS-2025-0145-0007/attachment_1.pdf)  
+[https://www.regulations.gov/comment/FSIS-2025-0145-0007](https://www.regulations.gov/comment/FSIS-2025-0145-0007)
 
-### Comments published by FSIS Regulations.gov Jan 21
-[https://downloads.regulations.gov/FSIS-2025-0145-0007/attachment_1.pdf](https://downloads.regulations.gov/FSIS-2025-0145-0007/attachment_1.pdf)
+### Comments published by CDC Regulations.gov Jan 21:
+[https://downloads.regulations.gov/CDC-2025-0750-0404/attachment_1.pdf](https://downloads.regulations.gov/CDC-2025-0750-0404/attachment_1.pdf)  
+[https://www.regulations.gov/comment/CDC-2025-0750-0404](https://www.regulations.gov/comment/CDC-2025-0750-0404)
 
+### Additional Comments published via Regulations.gov:
+[https://downloads.regulations.gov/NRC-2025-0089-0003/attachment_1.pdf](https://downloads.regulations.gov/NRC-2025-0089-0003/attachment_1.pdf)  
+[https://www.regulations.gov/comment/NRC-2025-0089-0003](https://www.regulations.gov/comment/NRC-2025-0089-0003)
 
-### Comments published by CDC Regulations.gov Jan 21
-[https://downloads.regulations.gov/CDC-2025-0750-0404/attachment_1.pdf](https://downloads.regulations.gov/CDC-2025-0750-0404/attachment_1.pdf)
+[https://downloads.regulations.gov/CDC-2025-0651-0005/attachment_1.pdf](https://downloads.regulations.gov/CDC-2025-0651-0005/attachment_1.pdf)  
+[https://www.regulations.gov/comment/CDC-2025-0651-0005](https://www.regulations.gov/comment/CDC-2025-0651-0005)
 
+[https://downloads.regulations.gov/VA-2025-VACO-0001-0152/attachment_1.pdf](https://downloads.regulations.gov/VA-2025-VACO-0001-0152/attachment_1.pdf)  
+[https://www.regulations.gov/comment/VA-2025-VACO-0001-0152](https://www.regulations.gov/comment/VA-2025-VACO-0001-0152)
 
+[https://downloads.regulations.gov/ED-2025-SCC-1141-0004/attachment_1.pdf](https://downloads.regulations.gov/ED-2025-SCC-1141-0004/attachment_1.pdf)  
+[https://www.regulations.gov/comment/ED-2025-SCC-1141-0004](https://www.regulations.gov/comment/ED-2025-SCC-1141-0004)
+
+[https://downloads.regulations.gov/OCC-2025-0669-0005/attachment_1.pdf](https://downloads.regulations.gov/OCC-2025-0669-0005/attachment_1.pdf)  
+[https://www.regulations.gov/comment/OCC-2025-0669-0005](https://www.regulations.gov/comment/OCC-2025-0669-0005)
+
+[https://downloads.regulations.gov/VA-2026-VBA-0067-11264/attachment_1.pdf](https://downloads.regulations.gov/VA-2026-VBA-0067-11264/attachment_1.pdf)  
+[https://www.regulations.gov/comment/VA-2026-VBA-0067-11264](https://www.regulations.gov/comment/VA-2026-VBA-0067-11264)
+
+[https://downloads.regulations.gov/HHS-ONC-2026-0001-0071/attachment_1.pdf](https://downloads.regulations.gov/HHS-ONC-2026-0001-0071/attachment_1.pdf)  
+[https://www.regulations.gov/comment/HHS-ONC-2026-0001-0071](https://www.regulations.gov/comment/HHS-ONC-2026-0001-0071)
 
 ### Pending Comments
 

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+<!-- Root Page -->
+<url>
+<loc>https://satyadharjoshi.github.io/</loc>
+</url>
+
+<!-- free-courses -->
+<url>
+<loc>https://satyadharjoshi.github.io/free-courses/</loc>
+</url>
+
+<!-- gov_usage_national_interest -->
+<url>
+<loc>https://satyadharjoshi.github.io/gov_usage_national_interest/</loc>
+</url>
+<url>
+<loc>https://satyadharjoshi.github.io/gov_usage_national_interest/library_gov.md</loc>
+</url>
+
+<!-- publications (HTML index) -->
+<url>
+<loc>https://satyadharjoshi.github.io/publications/</loc>
+</url>
+
+<!-- publications (PDF files) -->
+<url>
+<loc>https://satyadharjoshi.github.io/publications/advancing_us_public_health_surveillance_generative_ai_hiv.pdf</loc>
+</url>
+
+<url>
+<loc>https://satyadharjoshi.github.io/publications/Regulatory_Frameworks_for_Generative_AI_Enabled_Digital_Mental_Health_Devices.pdf</loc>
+</url>
+
+<url>
+<loc>https://satyadharjoshi.github.io/publications/Regulatory_Reform_for_Agentic_AI_Addressing_Governance_Challenges_in_Federal_AI_Adoption.pdf</loc>
+</url>
+
+<url>
+<loc>https://satyadharjoshi.github.io/publications/transformative_integration_agentic_generative_ai_food_safety_policy_framework_implementation_guidelines_economic_impact.pdf</loc>
+</url>
+
+</urlset>
