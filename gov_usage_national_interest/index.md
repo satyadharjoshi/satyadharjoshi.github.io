@@ -33,7 +33,7 @@
 [https://www.regulations.gov/comment/ITA-2025-0070-0042](https://www.regulations.gov/comment/ITA-2025-0070-0042)
 
 ### Comments published by FDA Regulations.gov Dec 8:
-<<<<<<< HEAD
+
 [https://downloads.regulations.gov/FDA-2025-N-2338-0070/attachment_1.pdf](https://downloads.regulations.gov/FDA-2025-N-2338-0070/attachment_1.pdf)  
 [https://www.regulations.gov/comment/FDA-2025-N-2338-0070](https://www.regulations.gov/comment/FDA-2025-N-2338-0070)
 

@@ -138,7 +138,6 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [Government Usage](/gov_usage_national_interest/) — Citations, indexing, and policy engagement  
 - [libraries](/libraries/) — Libraries and List of Papers indexed in Indexing services 
 - [research_profiles](/research_profiles/) — Libraries and List of Papers indexed in Indexing services 
->>>>>>> ec9af65f6090979b41eea3b5552e59e87d654dad
 ---
 
 ## Researcher Profile Summary
