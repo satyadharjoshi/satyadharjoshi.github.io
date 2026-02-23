@@ -131,6 +131,13 @@ These engagements demonstrate a sustained pathway from **independent research to
 - **VA-2026**: [PDF](https://downloads.regulations.gov/VA-2026-VBA-0067-11264/attachment_1.pdf) | [Comment](https://www.regulations.gov/comment/VA-2026-VBA-0067-11264)
 - **HHS-ONC**: [PDF](https://downloads.regulations.gov/HHS-ONC-2026-0001-0071/attachment_1.pdf) | [Comment](https://www.regulations.gov/comment/HHS-ONC-2026-0001-0071)
 
+=======
+- [Publications](/publications/) — Peer-reviewed and working papers  
+- [Free Courses](/free-courses/) — Open educational materials, Free Courses and Videos
+- [Government Usage](/gov_usage_national_interest/) — Citations, indexing, and policy engagement  
+- [libraries](/libraries/) — Libraries and List of Papers indexed in Indexing services 
+- [research_profiles](/research_profiles/) — Libraries and List of Papers indexed in Indexing services 
+>>>>>>> ec9af65f6090979b41eea3b5552e59e87d654dad
 ---
 
 ## Researcher Profile Summary
