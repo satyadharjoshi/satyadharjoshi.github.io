@@ -55,6 +55,7 @@ These engagements demonstrate a sustained pathway from **independent research to
 ---
 
 ### 📚 Research & Public Resources
+<<<<<<< HEAD
 
 #### Main Sections
 - [📄 Publications](/publications/) — Peer-reviewed and working papers  
