@@ -1,0 +1,32 @@
+#!/bin/bash
+
+# Directory to clean (current directory)
+DIR="."
+
+cd "$DIR" || exit
+
+for f in *; do
+    # Skip if not a file
+    [ -f "$f" ] || continue
+
+    # Convert to lowercase
+    new=$(echo "$f" | tr '[:upper:]' '[:lower:]')
+
+    # Replace spaces with underscore
+    new=$(echo "$new" | tr ' ' '_')
+
+    # Remove ALL special characters except: letters numbers _ .
+    new=$(echo "$new" | sed 's/[^a-z0-9._-]/_/g')
+
+    # Collapse multiple underscores to one
+    new=$(echo "$new" | sed 's/_\+/_/g')
+
+    # Remove underscore before extension
+    new=$(echo "$new" | sed 's/_\./\./g')
+
+    # If filename changed, rename it
+    if [[ "$f" != "$new" ]]; then
+        echo "Renaming: $f  →  $new"
+        mv -i "$f" "$new"
+    fi
+done
