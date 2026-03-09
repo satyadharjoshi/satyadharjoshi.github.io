@@ -139,6 +139,21 @@ This page documents research publications by Satyadhar Joshi available on **Impa
 
 ---
 
+
+
+### 🔗 Additional Research Links
+
+*   [https://ui.adsabs.harvard.edu/abs/2010wocn.conf...57P/abstract](https://ui.adsabs.harvard.edu/abs/2010wocn.conf...57P/abstract)
+*   [https://ui.adsabs.harvard.edu/abs/2010wocn.conf...55M/abstract](https://ui.adsabs.harvard.edu/abs/2010wocn.conf...55M/abstract)
+*   [https://ui.adsabs.harvard.edu/abs/2009coco.book..205P/abstract](https://ui.adsabs.harvard.edu/abs/2009coco.book..205P/abstract)
+*   [https://ui.adsabs.harvard.edu/abs/2010wocn.conf...50L/abstract](https://ui.adsabs.harvard.edu/abs/2010wocn.conf...50L/abstract)
+*   [https://ui.adsabs.harvard.edu/abs/2009act..conf...79P/abstract](https://ui.adsabs.harvard.edu/abs/2009act..conf...79P/abstract)
+*   [https://ui.adsabs.harvard.edu/abs/2009coco.book..389P/abstract](https://ui.adsabs.harvard.edu/abs/2009coco.book..389P/abstract)
+*   [https://ui.adsabs.harvard.edu/abs/2009coco.book..205P/abstract](https://ui.adsabs.harvard.edu/abs/2009coco.book..205P/abstract)
+
+
+
+
 ### 🔬 About the Research Laboratory
 
 **Gen AI and Agentic AI Research for US Competitiveness** is a dedicated research laboratory on Impactio focused on exploring the implications of generative and agentic artificial intelligence for United States economic competitiveness, workforce development, and technology policy.
