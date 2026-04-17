@@ -88,7 +88,7 @@ These engagements demonstrate a sustained pathway from **independent research to
 ### 📄 Selected Research Publications (PDFs)
 
 #### Agentic AI & Governance
-- [Regulatory Reform for Agentic AI: Addressing Governance Challenges in Federal AI Adoption](/publications/Regulatory_Reform_for_Agentic_AI_Addressing_Governance_Challenges_in_Federal_AI_Adoption.pdf)
+- [Regulatory Reform for Agentic AI: Addressing Governance Challenges in Federal AI Adoption](/publications/regulatory_reform_for_agentic_ai_addressing_governance_challenges_in_federal_ai_adoption.pdf)
 - [Regulatory Frameworks for Generative AI Enabled Digital Mental Health Devices](/publications/Regulatory_Frameworks_for_Generative_AI_Enabled_Digital_Mental_Health_Devices.pdf)
 - [Agentic AI, US Workforce, Education & Economic Competitiveness](/publications/agentic_ai_us_workforce_education_economic_competitiveness_satyadhar_joshi_commerce_gov.pdf)
 - [Joshi Agentic Gen AI US Competitiveness Interoperability Framework 2026](/publications/joshi_agentic_gen_ai_us_competitiveness_interoperability_framework_2026.pdf)
