@@ -96,7 +96,7 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [Agentic AI, US Workforce, Education &amp; Economic Competitiveness](/publications/agentic_ai_us_workforce_education_economic_competitiveness_satyadhar_joshi_commerce_gov.pdf)
 - [Joshi Agentic Gen AI US Competitiveness Interoperability Framework 2026](/publications/joshi_agentic_gen_ai_us_competitiveness_interoperability_framework_2026.pdf)
 - [Integrating NIST Agentic GenAI RMF for Financial Risk Management](/publications/joshi_integrating_nist_agentic_genai_rmf_financial_risk_management_2026.pdf)
-- [A Comprehensive Framework for US AI Export Leadership: Analysis, Implementation &amp; Strategic Recommendations](/publications/a_comprehensive_framework_for_us_ai_export_leadership_analysis_implementation_strategic_recommendations.pdf)
+- [A Comprehensive Framework for US AI Export Leadership: Analysis, Implementation &amp; Strategic Recommendations](/publications/A_Comprehensive_Framework_for_US_AI_Export_Leadership_Analysis_Implementation_Strategic_Recommendations.pdf)
 
 
 #### AI Governance & Risk Management
