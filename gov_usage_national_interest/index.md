@@ -98,6 +98,15 @@
 ### Comments published by OCC Regulations.gov:
 [https://downloads.regulations.gov/OCC-2025-0669-0005/attachment_1.pdf](https://downloads.regulations.gov/OCC-2025-0669-0005/attachment_1.pdf) | [Comment Link](https://www.regulations.gov/comment/OCC-2025-0669-0005)
 
+
+### Other Comments
+[https://downloads.regulations.gov/NIST-2025-0035-0379/attachment_1.pdf] (https://downloads.regulations.gov/NIST-2025-0035-0379/attachment_1.pdf) [https://www.regulations.gov/comment/NIST-2025-0035-0379](https://www.regulations.gov/comment/NIST-2025-0035-0379)
+
+[https://downloads.regulations.gov/NIST-2025-0035-0379/attachment_1.pdf](https://downloads.regulations.gov/FAR-2023-0008-0034/attachment_1.pdf)
+
+[https://www.regulations.gov/comment/FAR-2023-0008-0034]https://www.regulations.gov/comment/FAR-2023-0008-0034)
+
+
 ---
 
 ## Portfolio and National Interest Guidance
