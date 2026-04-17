@@ -120,7 +120,7 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [Implementing Gen-AI for Increasing Robustness of US Financial and Regulatory System](/publications/Implementing-Gen-AI-for-Increasing-Robustness-of-US-Financialand-Regulatory-System.pdf)
 - [Leveraging prompt engineering to enhance financial market integrity and risk management](/publications/Leveraging-prompt-engineering-to-enhance-financial-market-integrity-and-risk-management.pdf)
 - [The Synergy of Generative AI and Big Data for Financial Risk: Review of Recent Developments](/publications/The-Synergy-of-Generative-AI-and-Big-Data-forFinancial-Risk-Review-of-Recent-Developments.pdf)
-- [Using Gen-AI Agents with GAE and VAE to Enhance Resilience of US Markets](/publications/USING-GEN-AI-AGENTS-WITH-GAE-AND-VAE-TO-ENHANCE-RESILIENCE-OF-US-MARKETS.pdf)
+- [Using Gen-AI Agents with GAE and VAE to Enhance Resilience of US Markets](/publications/USING-GEN-AI-AGENTS-WITH-GAE-AND-VAE-TO-ENHANCE-RESILIENCE-OF-US-MARKETS_independent.pdf)
 - [Gen-AI for Market Risk and Credit Risk (Ebook Version 1)](/publications/Gen-AI-for-Market-Risk-and-Credit-Risk-Ebook-Version-1.pdf)
 
 #### Workforce Development & Education
