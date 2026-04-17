@@ -89,14 +89,15 @@ These engagements demonstrate a sustained pathway from **independent research to
 
 #### Agentic AI & Governance
 - [Regulatory Reform for Agentic AI: Addressing Governance Challenges in Federal AI Adoption](/publications/regulatory_reform_for_agentic_ai_addressing_governance_challenges_in_federal_ai_adoption.pdf)
-- [Regulatory Frameworks for Generative AI Enabled Digital Mental Health Devices](/publications/Regulatory_Frameworks_for_Generative_AI_Enabled_Digital_Mental_Health_Devices.pdf)
-- [Agentic AI, US Workforce, Education & Economic Competitiveness](/publications/agentic_ai_us_workforce_education_economic_competitiveness_satyadhar_joshi_commerce_gov.pdf)
-- [Joshi Agentic Gen AI US Competitiveness Interoperability Framework 2026](/publications/joshi_agentic_gen_ai_us_competitiveness_interoperability_framework_2026.pdf)
-- [Integrating NIST Agentic GenAI RMF for Financial Risk Management](/publications/joshi_integrating_nist_agentic_genai_rmf_financial_risk_management_2026.pdf)
-- [A Comprehensive Framework for US AI Export Leadership: Analysis, Implementation & Strategic Recommendations](/publications/A_Comprehensive_Framework_for_US_AI_Export_Leadership_Analysis_Implementation_Strategic_Recommendations.pdf)
 - [Advancing US Competitiveness in Agentic GenAI: A Strategic Framework for Interoperability and Governance](/publications/advancing_us_competitiveness_in_agentic_genai_a_strategic_framework_for_interoperability_and_governance.pdf)
 - [Advancing US Competitiveness Through Governance Tools and Trustworthy Frameworks for Autonomous GenAI Agentic Systems](/publications/advancing_us_competitiveness_through_governance_tools_and_trustworthy_frameworks_for_autonomous_genai_agentic_systems.pdf)
 - [US AI Leadership Policy: Regulation, Standards & Interoperability](/publications/US_AI_Leadership_Policy_Regulation_Standards_Interoperability.pdf)
+- - [Regulatory Frameworks for Generative AI Enabled Digital Mental Health Devices](/publications/regulatory_frameworks_for_generative_ai_enabled_digital_mental_health_devices.pdf)
+- [Agentic AI, US Workforce, Education &amp; Economic Competitiveness](/publications/agentic_ai_us_workforce_education_economic_competitiveness_satyadhar_joshi_commerce_gov.pdf)
+- [Joshi Agentic Gen AI US Competitiveness Interoperability Framework 2026](/publications/joshi_agentic_gen_ai_us_competitiveness_interoperability_framework_2026.pdf)
+- [Integrating NIST Agentic GenAI RMF for Financial Risk Management](/publications/joshi_integrating_nist_agentic_genai_rmf_financial_risk_management_2026.pdf)
+- [A Comprehensive Framework for US AI Export Leadership: Analysis, Implementation &amp; Strategic Recommendations](/publications/a_comprehensive_framework_for_us_ai_export_leadership_analysis_implementation_strategic_recommendations.pdf)
+
 
 #### AI Governance & Risk Management
 - [AI Governance in the Era of Agentic Generative AI and AGI: Frameworks, Risks, and Policy Directions](/publications/3-ai-governance-in-the-era-of-agentic-generative-ai-and-agi-frameworks-risks-and-policy-directions.pdf)
