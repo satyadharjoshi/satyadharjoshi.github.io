@@ -231,10 +231,10 @@ These engagements demonstrate a sustained pathway from **independent research to
 - **OCC**: [PDF](https://downloads.regulations.gov/OCC-2025-0669-0005/attachment_1.pdf) | [Comment](https://www.regulations.gov/comment/OCC-2025-0669-0005)
 - **VA-2026**: [PDF](https://downloads.regulations.gov/VA-2026-VBA-0067-11264/attachment_1.pdf) | [Comment](https://www.regulations.gov/comment/VA-2026-VBA-0067-11264)
 - **HHS-ONC**: [PDF](https://downloads.regulations.gov/HHS-ONC-2026-0001-0071/attachment_1.pdf) | [Comment](https://www.regulations.gov/comment/HHS-ONC-2026-0001-0071)
+- [https://downloads.regulations.gov/DARS-2025-0006-0002/attachment_1.pdf](https://downloads.regulations.gov/DARS-2025-0006-0002/attachment_1.pdf)
+-[https://www.regulations.gov/comment/DARS-2025-0006-0002](https://www.regulations.gov/comment/DARS-2025-0006-0002)
 
-[https://downloads.regulations.gov/DARS-2025-0006-0002/attachment_1.pdf](https://downloads.regulations.gov/DARS-2025-0006-0002/attachment_1.pdf)
 
-[https://www.regulations.gov/comment/DARS-2025-0006-0002](https://www.regulations.gov/comment/DARS-2025-0006-0002)
 ---
 
 ## Researcher Profile Summary
