@@ -235,6 +235,16 @@ These engagements demonstrate a sustained pathway from **independent research to
 -[https://www.regulations.gov/comment/DARS-2025-0006-0002](https://www.regulations.gov/comment/DARS-2025-0006-0002)
 
 
+
+[https://downloads.regulations.gov/DARS-2026-0202-0002/attachment_1.pdf](https://downloads.regulations.gov/DARS-2026-0202-0002/attachment_1.pdf)
+-[https://downloads.regulations.gov/DARS-2026-0202-0002/attachment_1.pdf)
+
+[https://downloads.regulations.gov/DARS-2026-0133-0009/attachment_1.pdf](https://downloads.regulations.gov/DARS-2026-0133-0009/attachment_1.pdf)
+-[https://downloads.regulations.gov/DARS-2026-0133-0009/attachment_1.pdf)
+
+[https://downloads.regulations.gov/NASA-2025-0300-0002/attachment_1.pdf](https://downloads.regulations.gov/NASA-2025-0300-0002/attachment_1.pdf)
+-[https://downloads.regulations.gov/NASA-2025-0300-0002/attachment_1.pdf)
+
 ---
 
 ## Researcher Profile Summary
