@@ -237,13 +237,14 @@ These engagements demonstrate a sustained pathway from **independent research to
 
 
 [https://downloads.regulations.gov/DARS-2026-0202-0002/attachment_1.pdf](https://downloads.regulations.gov/DARS-2026-0202-0002/attachment_1.pdf)
--[https://downloads.regulations.gov/DARS-2026-0202-0002/attachment_1.pdf)
 
 [https://downloads.regulations.gov/DARS-2026-0133-0009/attachment_1.pdf](https://downloads.regulations.gov/DARS-2026-0133-0009/attachment_1.pdf)
--[https://downloads.regulations.gov/DARS-2026-0133-0009/attachment_1.pdf)
 
 [https://downloads.regulations.gov/NASA-2025-0300-0002/attachment_1.pdf](https://downloads.regulations.gov/NASA-2025-0300-0002/attachment_1.pdf)
--[https://downloads.regulations.gov/NASA-2025-0300-0002/attachment_1.pdf)
+
+[https://downloads.regulations.gov/DARS-2025-0006-0002/attachment_1.pdf](https://downloads.regulations.gov/DARS-2025-0006-0002/attachment_1.pdf)
+
+[https://downloads.regulations.gov/FAR-2023-0008-0034/attachment_1.pdf](https://downloads.regulations.gov/FAR-2023-0008-0034/attachment_1.pdf)
 
 ---
 
