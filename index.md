@@ -176,7 +176,8 @@ These engagements demonstrate a sustained pathway from **independent research to
 
 #### Miscellaneous Publications
 - [12125ijcsitce02.pdf](/publications/12125ijcsitce02.pdf)
-- [1956_pdf.pdf](/publications/1956_pdf.pdf)
+- [Securing U.S. Leadership in Agentic AI Literacy and Adoption:
+U.S. vs Chinese Government Policies and Initiatives 1956_pdf.pdf](/publications/1956_pdf.pdf)
 - [Open Source vs. Commercial Coding Assistants](/publications/Open-Source-vs.-Commercial-Coding-Assistants-ijcatr14091002.pdf)
 - [A Survey of Mixture of Experts Models: Architectures and Applications in Business and Finance](/publications/a_survey_of_mixture_of_experts_models_architectures_and_applications_in_business_and_finance.pdf)
 - [Artificial Intelligence and the Future of US Competitiveness: Sectoral Impacts, Workforce Transitions, and Policy Challenges](/publications/artificial-intelligence-and-the-future-of-us-competitivenesssectoral-impacts-workforce.pdf)
