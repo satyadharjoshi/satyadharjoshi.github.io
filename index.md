@@ -100,6 +100,7 @@ These engagements demonstrate a sustained pathway from **independent research to
 
 
 #### AI Governance & Risk Management
+
 - [AI Governance in the Era of Agentic Generative AI and AGI: Frameworks, Risks, and Policy Directions](/publications/3-ai-governance-in-the-era-of-agentic-generative-ai-and-agi-frameworks-risks-and-policy-directions.pdf)
 - [Model Risk Management in the Era of Generative AI](/publications/joshi_model_risk_management_in_the_era_of_generative_aiijsrp-p16133.pdf)
 - [Review of Artificial General Intelligence (AGI) Implications for the US](/publications/review_of_artificial_general_intelligence_agi_implications_for_the_us.pdf)
@@ -124,6 +125,8 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [Gen-AI for Market Risk and Credit Risk (Ebook Version 1)](/publications/Gen-AI-for-Market-Risk-and-Credit-Risk-Ebook-Version-1.pdf)
 
 #### Workforce Development & Education
+- [Reskilling and Retraining the Water Technology Workforce: An Agentic Generative AI Framework for Water Purification, Nano‑MEMS, and Curriculum Development](/publications/jocaaa.pdf)
+
 - [Reskilling the US Military Workforce for the Agentic AI Era: A Framework for Educational Transformation](/publications/reskilling_the_us_military_workforce_for_the_agentic_ai_era_a_framework_for_educational_transformation.pdf)
 - [Enhancing US K-12 Competitiveness for the Agentic Generative AI Era: A Framework for Integrating AI in US K-12 Education](/publications/enhancing_us_k12_competitiveness_for_the_agentic_generative_ai_era_a_framework_for_integrating_ai_in_us_k12_education.pdf)
 - [Strategic Integration of Artificial Intelligence in US K-12 Education](/publications/strategic-integration-of-artificial-intelligence-in-us-k-12-education.pdf)
