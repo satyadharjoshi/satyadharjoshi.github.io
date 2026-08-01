@@ -134,7 +134,6 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [Addressing the AI Skills Gap: A Multi-Level Framework for Integrating Prompt Engineering and Upskilling into US Workforce Development Policy](/publications/a_multi_level_framework_for_integrating_prompt_engineering_and_upskilling_into_us_workforce_development_policy.pdf)
 - [Retraining US Workforce in the Age of Agentic Gen-AI: Role of Prompt Engineering and Up-Skilling Initiatives](/publications/paper23272_1.pdf)
 - [Training US Workforce for Generative AI Models and Prompt Engineering: ChatGPT, Copilot and Gemini](/publications/Training-US-Workforce-for-Generative-AI-Models-and-Prompt-Engineering-ChatGPT-Copilot-and-Gemini-IJSET_V13_issue1_171.pdf)
-- [Training Workforce for AI](/publications/training_workforce_v20.pdf)
 - [Bridging the AI Skills Gap: Workforce Training for Financial Services](/publications/bridging-the-ai-skills-gap-workforce-training-for-financial-servicesijisrt25feb878_1.pdf)
 - [Impact of AI on Veteran Employment and Future Workforce Development: Opportunities, Barriers, and Solutions](/publications/ijisrt25sep978.pdf)
 - [Agentic Generative AI and the Future U.S. Workforce](/publications/agentic_ai_us_workforce_education_economic_competitiveness_satyadhar_joshi_commerce_gov.pdf)
