@@ -123,6 +123,8 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [The Synergy of Generative AI and Big Data for Financial Risk: Review of Recent Developments](/publications/The-Synergy-of-Generative-AI-and-Big-Data-forFinancial-Risk-Review-of-Recent-Developments.pdf)
 - [Using Gen-AI Agents with GAE and VAE to Enhance Resilience of US Markets](/publications/USING-GEN-AI-AGENTS-WITH-GAE-AND-VAE-TO-ENHANCE-RESILIENCE-OF-US-MARKETS_independent.pdf)
 - [Gen-AI for Market Risk and Credit Risk (Ebook Version 1)](/publications/Gen-AI-for-Market-Risk-and-Credit-Risk-Ebook-Version-1.pdf)
+- [Review of Data Engineering and Data Lakes for Implementing GenAI in Financial Risk](/publications/3525379787.pdf)
+
 
 #### Workforce Development & Education
 - [Policy Recommendations for New Jerseys Artificial Intelligence Leadership in K-12, Higher Education, and Workforce Development](/publications/1443_pdf.pdf)  
