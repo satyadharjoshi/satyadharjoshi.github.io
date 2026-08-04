@@ -150,6 +150,8 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [LLMOps, AgentOps and MLOps for Generative AI: A Comprehensive Review](/publications/ijcatr14071001.pdf)
 - [A Review of Generative AI and DevOps Pipelines: CI/CD, Agentic Automation, MLOps Integration, and LLMs](/publications/1-a-review-of-generative-ai-and-devops-pipelines-ci-cd-agentic-automation-mlops-integration-and-llms.pdf)
 - [Introduction to Generative AI and DevOps: Synergies, Challenges, and Applications](/publications/introduction-to-generative-ai-and-devops-synergies-challenges-and-applications-paper23634.pdf)
+- [A Comprehensive Review of Gen AI Agents: Applications and Frameworks in Finance, Investments and Risk Domains](/publications/IJISRT25MAY964.pdf)
+  
 
 #### AI Agents & Multi-Agent Systems
 - [Review of Autonomous and Collaborative Agentic AI and Multi-Agent Systems for Enterprise Applications](/publications/ijirem-review-of-autonomous-and-collaborative-agentic-ai-and-multi-agent-systems-for-enterprise-applications.pdf)
