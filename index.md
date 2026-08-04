@@ -125,6 +125,8 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [Gen-AI for Market Risk and Credit Risk (Ebook Version 1)](/publications/Gen-AI-for-Market-Risk-and-Credit-Risk-Ebook-Version-1.pdf)
 
 #### Workforce Development & Education
+- [Policy Recommendations for New Jerseys Artificial Intelligence Leadership in K-12, Higher Education, and Workforce Development](/publications/1443_pdf.pdf)  
+
 - [Reskilling and Retraining the Water Technology Workforce: An Agentic Generative AI Framework for Water Purification, Nano‑MEMS, and Curriculum Development](/publications/jocaaa.pdf)
 
 - [Reskilling the US Military Workforce for the Agentic AI Era: A Framework for Educational Transformation](/publications/reskilling_the_us_military_workforce_for_the_agentic_ai_era_a_framework_for_educational_transformation.pdf)
