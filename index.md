@@ -160,6 +160,8 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [Review of Prompt Engineering Techniques in Finance: A Evaluation of Chain of Thought, Tree of Thought, and Graph of Thought Approaches](/publications/6_review_of_prompt_engineering_techniques_in_finance_a_evaluation_of_chain_of_thought_tree_of_thought.pdf)
 
 #### Public Health & Food Safety
+- [Framework for Government Policy on Agentic and Generative AI in Healthcare: Governance, Regulation, and Risk Management of Open-Source and Proprietary Models](/publications/1440_pdf.pdf)
+
 - [Advancing US Public Health Surveillance with Generative AI: A Framework for HIV Prevention and Response](/publications/advancing_us_public_health_surveillance_generative_ai_hiv.pdf)
 - [Transformative Integration of Agentic Generative AI in Food Safety: Policy Framework, Implementation Guidelines, and Economic Impact](/publications/transformative_integration_agentic_generative_ai_food_safety_policy_framework_implementation_guidelines_economic_impact.pdf)
 - [Agentic GenAI Food Safety Policy Framework](/publications/agentic_genai_food_safety_policy_framework.pdf)
