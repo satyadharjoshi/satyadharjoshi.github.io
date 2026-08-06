@@ -107,7 +107,7 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [Comprehensive Review of Artificial General Intelligence (AGI), Agentic AI and GenAI: Current Trends and Future Directions](/publications/comprehensive_review_of_artificial_general_intelligence_agi_agentic_ai_and_genai_current_trends_and_future_directions_mge_2.pdf)
 - [Comprehensive review of Artificial General Intelligence (AGI) Applications in Business and Finance](/publications/comprehensivereviewofartificialgeneralintelligenceagiapplicationsinbusinessandfinance.pdf)
 - [Comprehensive Review of AI Hallucinations](/publications/ijcatr14061003.pdf)
-
+- [1-Generative-AI-in-Investment-and-Portfolio-Management-Comprehensive-Review-of-Current-Applications-and-Future-Directions.pdf](1-Generative-AI-in-Investment-and-Portfolio-Management-Comprehensive-Review-of-Current-Applications-and-Future-Directions.pdf)
 
 #### Financial Services & Risk Modeling
 - [Asset-Backed Securities: A Practical Introduction within the Basel III and FRTB Framework](/publications/asset_backed_securities_a_practical_introduction_within_the_basel_iii_and_frtb_frameworkwjarr-2025-2465.pdf)
