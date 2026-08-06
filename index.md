@@ -188,6 +188,8 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [The Role of AI in Enhancing Teamwork, Resilience and Decision Making](/publications/The_Role_of_AI_in_Enhancing_Teamwork_Resilience_and_Decision_Making_joshi-2025-ijca-925036.pdf)
 - [Generative AI in Business: Visual Illustrations of Applications and Insights from Q1 2025](/publications/GENERATIVE-AI-IN-BUSINESS-VISUAL-ILLUSTRATIONS-OF-APPLICATIONS-AND-INSIGHTS-FROM-Q1-2025.pdf)
 
+-[WJARR-2025-1415.pdf](/publications/TWJARR-2025-1415.pdf)
+
 #### Cloud & Platform Technologies
 - [Review, Tutorials and Introduction to Cloud Platforms for Agentic GenAI: A Comparative Studies](/publications/Review-Tutorials-and-Introduction-to-Cloud-Platforms-for-Agentic-GenAI-A-Comparative-Studies-V11I1-1395.pdf)
 - [Comprehensive Review of Gen Agentic AI in Marketing: Tools, Theories and Applications](/publications/1919_pdf)
