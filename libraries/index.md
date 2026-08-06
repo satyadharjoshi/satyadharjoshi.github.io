@@ -36,7 +36,7 @@
 *   [https://scholar9.com/publication/36a61fe16a1c652bbb19affceb8dcd7f.pdf](https://scholar9.com/publication/36a61fe16a1c652bbb19affceb8dcd7f.pdf)
 
 ### OSF Research Publications
-
+https://web.archive.org/web/20250703163158id_/https://ijircst.org/DOC/1-A-Review-of-Generative-AI-and-DevOps-Pipelines-CI-CD-Agentic-Automation-MLOps-Integration-and-LLMs.pdf
 *   **Generative AI for Workforce Development, Policy Innovation, and National Competitiveness**: [https://osf.io/z2ehr](https://osf.io/z2ehr)
 
 #### OSF Storage Files:
