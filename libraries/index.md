@@ -47,8 +47,10 @@
 *   **Agentic Generative AI and the Future U.S. Workforce IJRR12**: [https://osf.io/z2ehr/files/osfstorage/67ac3917743c5ac02507d7da](https://osf.io/z2ehr/files/osfstorage/67ac3917743c5ac02507d7da)
 *   **Regulatory Reform for Agentic AI Addressing Governance Challenges in Federal AI Adoption**: [https://osf.io/z2ehr/files/osfstorage/6931a5b128ed0409dbd723c6](https://osf.io/z2ehr/files/osfstorage/6931a5b128ed0409dbd723c6)
 
----
 - [osf paper](https://osf.io/z2ehr/files/bwa9v)
+
+---
+
 
 
 
