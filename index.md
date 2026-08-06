@@ -187,6 +187,8 @@ These engagements demonstrate a sustained pathway from **independent research to
 
 #### Cloud & Platform Technologies
 - [Review, Tutorials and Introduction to Cloud Platforms for Agentic GenAI: A Comparative Studies](/publications/Review-Tutorials-and-Introduction-to-Cloud-Platforms-for-Agentic-GenAI-A-Comparative-Studies-V11I1-1395.pdf)
+- [Comprehensive Review of Gen Agentic AI in Marketing: Tools, Theories and Applications](/publications/1919_pdf)
+
 
 #### Miscellaneous Publications
 - [12125ijcsitce02.pdf](/publications/12125ijcsitce02.pdf)
