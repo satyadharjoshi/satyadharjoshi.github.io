@@ -129,7 +129,7 @@ These engagements demonstrate a sustained pathway from **independent research to
 #### Workforce Development & Education
 - [The Impact of AI on Veteran Employment and the Future Workforce Development: Opportunities, Barriers, and Systemic Solutions](/publications/WJARR-2025-3147.pdf)
 
-
+- [Paper31471.pdf](/publications/Paper31471.pdf)
 
 
 - [Policy Recommendations for New Jerseys Artificial Intelligence Leadership in K-12, Higher Education, and Workforce Development](/publications/1443_pdf.pdf)
