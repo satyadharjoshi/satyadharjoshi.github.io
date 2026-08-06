@@ -169,6 +169,9 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [Prompt Engineering in Finance: An LLM-based Multi-Agent Architecture for Decision Support](/publications/prompt_engineering_in_finance_an_llm-based_multi-agent_architecture_for_decision_support.pdf)
 - [Review of Prompt Engineering Techniques in Finance: A Evaluation of Chain of Thought, Tree of Thought, and Graph of Thought Approaches](/publications/6_review_of_prompt_engineering_techniques_in_finance_a_evaluation_of_chain_of_thought_tree_of_thought.pdf)
 
+- [Review of Autonomous and Collaborative Agentic AI and Multi-Agent Systems for Enterprise Applications](/publications/9-Review-of-Autonomous-and-Collaborative-Agentic AI-and-Multi-Agent-Systems-for-Enterprise-Applications.pdf)
+
+
 #### Public Health & Food Safety
 - [Framework for Government Policy on Agentic and Generative AI in Healthcare: Governance, Regulation, and Risk Management of Open-Source and Proprietary Models](/publications/1440_pdf.pdf)
 
