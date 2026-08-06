@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Satyadhar Joshi
 
 ## Academic Profiles & Research Libraries
