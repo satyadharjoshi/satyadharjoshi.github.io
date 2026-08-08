@@ -205,6 +205,8 @@ U.S. vs Chinese Government Policies and Initiatives 1956_pdf.pdf](/publications/
 - [Empowering Financial Institutions with GPT-Powered Frameworks for Market Intelligence and Decision-Making](/publications/ijnrd2503051.pdf)
 - [A Literature Review of Gen-AI Agents in Financial Applications: Models and Implementations](/publications/A-Literature-Review-of-Gen-AI-Agents-in-Financial-Applications-Models-and-Implementations.pdf)
 - [The Role of AI in Enhancing Teamwork, Resilience and Decision-Making: Review of Recent Developments](/publications/joshi-2025-ijca-925036.pdf)
+- [Classical_Management_and_the_Future_of_US_Finance_Taylor_Fayol_and_Agentic_AI_in_US_Financial_Institution.pdf](/publications/Classical_Management_and_the_Future_of_US_Finance_Taylor_Fayol_and_Agentic_AI_in_US_Financial_Institution.pdf)
+
 
 ---
 
