@@ -122,6 +122,8 @@ Uploaded on Github.io
 
 
 Indexing:
+- [Classical_Management_and_the_Future_of_US_Finance_Taylor_Fayol_and_Agentic_AI_in_US_Financial_Institution.pdf](/publications/Classical_Management_and_the_Future_of_US_Finance_Taylor_Fayol_and_Agentic_AI_in_US_Financial_Institution.pdf)
+
 
 [12125ijcsitce02.pdf](12125ijcsitce02.pdf)
 [1440_pdf.pdf](1440_pdf.pdf)
