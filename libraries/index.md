@@ -78,7 +78,7 @@ Below are links to key research papers hosted on Impactio:
 ---
 ## Paper on NASA Harvard Repo
 
-- [https://ui.adsabs.harvard.edu/abs/2025CJAST..44...52J/abstract](https://ui.adsabs.harvard.edu/abs/2025CJAST..44...52J/abstrac)
+- [https://ui.adsabs.harvard.edu/abs/2025CJAST..44...52J/abstract](https://ui.adsabs.harvard.edu/abs/2025CJAST..44...52J/abstract)
 
  - [https://ui.adsabs.harvard.edu/abs/2025IJARS...5..124J/abstract](https://ui.adsabs.harvard.edu/abs/2025IJARS...5..124J/abstract)
 
