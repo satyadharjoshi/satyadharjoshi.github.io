@@ -63,7 +63,7 @@ https://web.archive.org/web/20250703163158id_/https://ijircst.org/DOC/1-A-Review
 
 Below are links to key research papers hosted on Impactio:
 
-##  Paper Links
+##  Paper Links Impactio
 
 1. [Paper 1](https://www.impactio.com/publication-attachments/2085/1848027850.pdf)
 2. [Paper 2](https://www.impactio.com/publication-attachments/2090/468455905.pdf)
@@ -76,6 +76,15 @@ Below are links to key research papers hosted on Impactio:
 9. [Paper 9](https://www.impactio.com/publication-attachments/2087/3904006218.pdf)
 
 ---
+## Paper on NASA Harvard Repo
 
+- [https://ui.adsabs.harvard.edu/abs/2025CJAST..44...52J/abstract](https://ui.adsabs.harvard.edu/abs/2025CJAST..44...52J/abstrac)
 
+ - [https://ui.adsabs.harvard.edu/abs/2025IJARS...5..124J/abstract](https://ui.adsabs.harvard.edu/abs/2025IJARS...5..124J/abstract)
+
+ - [https://ui.adsabs.harvard.edu/abs/2025IJCA..187..975J/abstract](https://ui.adsabs.harvard.edu/abs/2025IJCA..187..975J/abstract)
+
+ - [https://ui.adsabs.harvard.edu/abs/2025JESBS..3861436J/abstract](https://ui.adsabs.harvard.edu/abs/2025JESBS..3861436J/abstract)
+
+ - [https://ui.adsabs.harvard.edu/abs/2026IJIRC..14..127J/abstract](https://ui.adsabs.harvard.edu/abs/2026IJIRC..14..127J/abstract)
 
