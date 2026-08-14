@@ -124,6 +124,7 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [Using Gen-AI Agents with GAE and VAE to Enhance Resilience of US Markets](/publications/USING-GEN-AI-AGENTS-WITH-GAE-AND-VAE-TO-ENHANCE-RESILIENCE-OF-US-MARKETS_independent.pdf)
 - [Gen-AI for Market Risk and Credit Risk (Ebook Version 1)](/publications/Gen-AI-for-Market-Risk-and-Credit-Risk-Ebook-Version-1.pdf)
 - [Review of Data Engineering and Data Lakes for Implementing GenAI in Financial Risk](/publications/3525379787.pdf)
+- [12-impact-of-genAI-on-US-financial-advisors-re-skilling-for-cost-effective-and-efficient-financial-analysis-and-planning.pdf](12-impact-of-genAI-on-US-financial-advisors-re-skilling-for-cost-effective-and-efficient-financial-analysis-and-planning.pdf)
 
 
 #### Workforce Development & Education
