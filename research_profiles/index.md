@@ -11,3 +11,4 @@
 *   **GitHub.io Page**: [https://satyadharjoshi.github.io/](https://satyadharjoshi.github.io/)
 *   **WorldCat List**: [https://search.worldcat.org/lists/c2ddb4da-7e19-4e2b-b7c8-2cd8b1f05a63](https://search.worldcat.org/lists/c2ddb4da-7e19-4e2b-b7c8-2cd8b1f05a63)
 *   **Scite.ai Profile**: [https://scite.ai/users/satyadhar-joshi-zkraY](https://scite.ai/users/satyadhar-joshi-zkraY)
+*   [https://scixplorer.org/public-libraries/CimW5g84Sbmr0EG-p6UTgQ](https://scixplorer.org/public-libraries/CimW5g84Sbmr0EG-p6UTgQ)
