@@ -222,7 +222,7 @@ U.S. vs Chinese Government Policies and Initiatives 1956_pdf.pdf](/publications/
 - **ViXra Author Page**: [https://vixra.org/author/satyadhar_joshi](https://vixra.org/author/satyadhar_joshi)
 - **OSF Repository**: [https://osf.io/z2ehr/overview](https://osf.io/z2ehr/overview)
 - **GitHub.io Page**: [https://satyadharjoshi.github.io/](https://satyadharjoshi.github.io/)
-- **SciProfiles**: [https://sciprofiles.com/profile/1798816](https://sciprofiles.com/profile/1798816)
+- **SciProfiles**: [https://sciprofiles.com/profile/satyadharjoshi](https://sciprofiles.com/profile/satyadharjoshi)
 
 #### Impactio Laboratory
 - **GenAI and Agentic AI Research Laboratory**: [https://www.impactio.com/laboratory/GenAIandAgenticAIResearchforUSCompetitiveness](https://www.impactio.com/laboratory/GenAIandAgenticAIResearchforUSCompetitiveness?tab=publications)
