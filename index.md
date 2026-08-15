@@ -98,6 +98,7 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [Integrating NIST Agentic GenAI RMF for Financial Risk Management](/publications/joshi_integrating_nist_agentic_genai_rmf_financial_risk_management_2026.pdf)
 - [A Comprehensive Framework for US AI Export Leadership: Analysis, Implementation &amp; Strategic Recommendations](/publications/A_Comprehensive_Framework_for_US_AI_Export_Leadership_Analysis_Implementation_Strategic_Recommendations.pdf)
 - [19-Implementing-Gen-AI-for-Increasing-Robustness-of-US-Financial-and-Regulatory-System.pdf](19-Implementing-Gen-AI-for-Increasing-Robustness-of-US-Financial-and-Regulatory-System.pdf)
+- [Joshi3862025JESBS146343.pdf](/publications/Joshi3862025JESBS146343.pdf)
 
 #### AI Governance & Risk Management
 
