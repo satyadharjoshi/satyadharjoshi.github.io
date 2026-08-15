@@ -333,5 +333,13 @@ These contributions are sustained, independently produced, and oriented toward *
 
 ---
 
+Academia
+
+[https://www.academia.edu/130348278/A_Review_of_Generative_AI_and_DevOps_Pipelines_CI_CD_Agentic_Automation_MLOps_Integration_and_LLMs?sm=b&rhid=42043444321](https://www.academia.edu/130348278/A_Review_of_Generative_AI_and_DevOps_Pipelines_CI_CD_Agentic_Automation_MLOps_Integration_and_LLMs?sm=b&rhid=42043444321)
+
+[https://osf.io/z2ehr/files/osfstorage/6a80c7a487f94522b7ec9288](https://osf.io/z2ehr/files/osfstorage/6a80c7a487f94522b7ec9288)
+
+
+
 **Disclaimer**  
 All research is conducted in an independent capacity. The views expressed are solely those of the author and do not represent any employer or affiliated institution.
