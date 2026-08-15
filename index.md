@@ -279,6 +279,9 @@ U.S. vs Chinese Government Policies and Initiatives 1956_pdf.pdf](/publications/
 
 
 [https://downloads.regulations.gov/DARS-2025-0006-0002/attachment_1.pdf](https://downloads.regulations.gov/DARS-2025-0006-0002/attachment_1.pdf)
+
+
+[https://search.library.doc.gov/discovery/search?vid=01USDOC_INST:01USDOC&tab=Everything&search_scope=MyInst_and_CI&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,satyadhar%20joshi&displayField=all&pcAvailabiltyMode=true&pcAvailability=false](https://search.library.doc.gov/discovery/search?vid=01USDOC_INST:01USDOC&tab=Everything&search_scope=MyInst_and_CI&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,satyadhar%20joshi&displayField=all&pcAvailabiltyMode=true&pcAvailability=false)
 ---
 
 ## Researcher Profile Summary
