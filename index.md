@@ -339,7 +339,9 @@ Academia
 
 [https://osf.io/z2ehr/files/osfstorage/6a80c7a487f94522b7ec9288](https://osf.io/z2ehr/files/osfstorage/6a80c7a487f94522b7ec9288)
 
+[https://works.hcommons.org/records/3w1r2-gv362/files/12-impact-of-genAI-on-US-financial-advisors-re-skilling-for-cost-effective-and-efficient-financial-analysis-and-planning.pdf?download=1&preview=1](https://works.hcommons.org/records/3w1r2-gv362/files/12-impact-of-genAI-on-US-financial-advisors-re-skilling-for-cost-effective-and-efficient-financial-analysis-and-planning.pdf?download=1&preview=1)
 
+[https://works.hcommons.org/records/fts9e-n7994/files/1919_pdf.pdf?download=1&preview=1](https://works.hcommons.org/records/fts9e-n7994/files/1919_pdf.pdf?download=1&preview=1)
 
 **Disclaimer**  
 All research is conducted in an independent capacity. The views expressed are solely those of the author and do not represent any employer or affiliated institution.
