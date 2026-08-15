@@ -283,6 +283,10 @@ U.S. vs Chinese Government Policies and Initiatives 1956_pdf.pdf](/publications/
 
 [US commerse](https://search.library.doc.gov/discovery/search?vid=01USDOC_INST:01USDOC&tab=Everything&search_scope=MyInst_and_CI&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,satyadhar%20joshi&displayField=all&pcAvailabiltyMode=true&pcAvailability=false)
 
+
+[US Commerce 2](https://search.library.doc.gov/discovery/search?vid=01USDOC_INST:01USDOC&tab=Everything&search_scope=MyInst_and_CI&mode=basic&displayMode=full&bulkSize=10&highlight=true&dum=true&query=any,contains,satyadhar%20joshi&displayField=all&pcAvailabiltyMode=true&pcAvailability=true)
+
+
 ---
 
 ## Researcher Profile Summary
