@@ -99,6 +99,7 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [A Comprehensive Framework for US AI Export Leadership: Analysis, Implementation &amp; Strategic Recommendations](/publications/A_Comprehensive_Framework_for_US_AI_Export_Leadership_Analysis_Implementation_Strategic_Recommendations.pdf)
 - [19-Implementing-Gen-AI-for-Increasing-Robustness-of-US-Financial-and-Regulatory-System.pdf](19-Implementing-Gen-AI-for-Increasing-Robustness-of-US-Financial-and-Regulatory-System.pdf)
 - [Joshi3862025JESBS146343.pdf](/publications/Joshi3862025JESBS146343.pdf)
+- [A Comprehensive Review of Gen AI Agents: Applications and Frameworks in Finance, Investments and Risk Domains](/publications/publications/.pdf)
 
 #### AI Governance & Risk Management
 
@@ -147,7 +148,7 @@ These engagements demonstrate a sustained pathway from **independent research to
 - [Retraining US Workforce in the Age of Agentic Gen-AI: Role of Prompt Engineering and Up-Skilling Initiatives](/publications/paper23272_1.pdf)
 - [Training US Workforce for Generative AI Models and Prompt Engineering: ChatGPT, Copilot and Gemini](/publications/Training-US-Workforce-for-Generative-AI-Models-and-Prompt-Engineering-ChatGPT-Copilot-and-Gemini-IJSET_V13_issue1_171.pdf)
 - [Bridging the AI Skills Gap: Workforce Training for Financial Services](/publications/bridging-the-ai-skills-gap-workforce-training-for-financial-servicesijisrt25feb878_1.pdf)
-- [Impact of AI on Veteran Employment and Future Workforce Development: Opportunities, Barriers, and Solutions](/publications/ijisrt25sep978.pdf)
+- [Impact of AI on Veteran Employment and Future Workforce Development: Opportunities, Barriers, and Solutions](/publications/.pdf)
 - [Agentic Generative AI and the Future U.S. Workforce](/publications/agentic_ai_us_workforce_education_economic_competitiveness_satyadhar_joshi_commerce_gov.pdf)
 - [The Transformative Role of Agentic GenAI in Shaping Workforce Development and Education in the US](/publications/The-Transformative-Role-of-Agentic-GenAI-in-Shaping-Workforce-Development-and-Education-in-the-US.pdf)
 
