@@ -235,7 +235,6 @@ U.S. vs Chinese Government Policies and Initiatives 1956_pdf.pdf](/publications/
 
 #### Citations by Government Agencies
 - **Federal Reserve US Paper**: [https://www.federalreserve.gov/econres/feds/files/2025053pap.pdf](https://www.federalreserve.gov/econres/feds/files/2025053pap.pdf)
-- **BLS US Govt**: [https://www.bls.gov/opub/mlr/content/doi/mlr.2022.21.txt](https://www.bls.gov/opub/mlr/content/doi/mlr.2022.21.txt)
 - **ERIC US Govt**: [https://eric.ed.gov/?q=satyadhar+joshi](https://eric.ed.gov/?q=satyadhar+joshi)
 - **Science.gov**: [https://www.google.com/search?q=satyadhar+joshi+site%3Ascience.gov](https://www.google.com/search?q=satyadhar+joshi+site%3Ascience.gov)
 - **ScanR France**: [https://scanr.enseignementsup-recherche.gouv.fr/search/publications?q=satyadhar+joshi](https://scanr.enseignementsup-recherche.gouv.fr/search/publications?q=satyadhar+joshi)
@@ -295,7 +294,6 @@ U.S. vs Chinese Government Policies and Initiatives 1956_pdf.pdf](/publications/
 
 ### Selected Government Recognition
 - **Federal Reserve System** — Research cited in economic analysis (FEDS series)
-- **U.S. Bureau of Labor Statistics (BLS)** — Referenced in labor market research
 - **Regulations.gov** — Policy submissions to OSTP, ITA, FDA, CDC, and other agencies
 - **International Public Indexing** — EU, France, Australia, Ukraine government portals
 - **U.S. Department of Commerce** — Publications indexed in Commerce Research Library
@@ -342,6 +340,7 @@ Academia
 [https://osf.io/z2ehr/files/osfstorage/6a80c7a487f94522b7ec9288](https://osf.io/z2ehr/files/osfstorage/6a80c7a487f94522b7ec9288)
 
 [https://works.hcommons.org/records/3w1r2-gv362/files/12-impact-of-genAI-on-US-financial-advisors-re-skilling-for-cost-effective-and-efficient-financial-analysis-and-planning.pdf?download=1&preview=1](https://works.hcommons.org/records/3w1r2-gv362/files/12-impact-of-genAI-on-US-financial-advisors-re-skilling-for-cost-effective-and-efficient-financial-analysis-and-planning.pdf?download=1&preview=1)
+
 
 [https://works.hcommons.org/records/fts9e-n7994/files/1919_pdf.pdf?download=1&preview=1](https://works.hcommons.org/records/fts9e-n7994/files/1919_pdf.pdf?download=1&preview=1)
 
