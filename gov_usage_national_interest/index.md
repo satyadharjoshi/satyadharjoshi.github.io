@@ -5,7 +5,6 @@
 ### Citation and References by Government Agencies
 
 *   **Paper Cited by Federal Reserve US Paper**: [https://www.federalreserve.gov/econres/feds/files/2025053pap.pdf](https://www.federalreserve.gov/econres/feds/files/2025053pap.pdf)
-*   **Paper referenced by BLS US Govt**: [https://www.bls.gov/opub/mlr/content/doi/mlr.2022.21.txt](https://www.bls.gov/opub/mlr/content/doi/mlr.2022.21.txt)
 *   **Paper published at ERIC US Govt**: [https://eric.ed.gov/?q=satyadhar+joshi](https://eric.ed.gov/?q=satyadhar+joshi)
 *   **Paper indexed in Science Gov**: [https://www.google.com/search?q=satyadhar+joshi+site%3Ascience.gov](https://www.google.com/search?q=satyadhar+joshi+site%3Ascience.gov)
 *   **Papers indexed in ScanR France**: [https://scanr.enseignementsup-recherche.gouv.fr/search/publications?q=satyadhar+joshi](https://scanr.enseignementsup-recherche.gouv.fr/search/publications?q=satyadhar+joshi)
