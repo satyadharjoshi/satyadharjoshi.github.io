@@ -41,6 +41,7 @@
 - **[PhilPapers](https://philpapers.org)** - Philosophy research
 - **[Scilit](https://scilit.net)** - Scientific literature
 
+
 ## 📚 **Research Contributions**
 
 ### **Independent Research Work**
@@ -81,6 +82,7 @@ My research has gained recognition through various government platforms:
 - **Policy Contributions**: Input provided through regulatory channels
 - **Research Indexing**: Publications included in government databases
 - **Public Commentary**: Contributions to policy discussions
+[Titan HA](https://titanhealthawards.com/winner-info.php?id=1700)
 
 ## 🆓 **Educational Initiatives**
 
